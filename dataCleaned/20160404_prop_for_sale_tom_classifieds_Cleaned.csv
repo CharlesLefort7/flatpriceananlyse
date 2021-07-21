@@ -1,0 +1,698 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Monday,April,4,2016,n,n,n,n,n,GOZO,"150,000"
+Monday,April,4,2016,n,n,n,n,n,NaN,NaN
+Monday,April,4,2016,n,n,n,n,n, PACEVILLE,"950,000"
+Monday,April,4,2016,n,n,n,n,n,ŻEJTUN,"168,000"
+Sunday,April,3,2016,n,n,n,n,n,APARTMENT,NaN
+Sunday,April,3,2016,n,n,n,n,y,ATTARD,NaN
+Sunday,April,3,2016,n,n,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,n,n,n,n,y,ATTARD,NaN
+Sunday,April,3,2016,y,n,n,n,n,ATTARD,NaN
+Sunday,April,3,2016,n,y,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,n,y,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,y,n,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,y,n,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,n,n,n,y,n,ATTARD,NaN
+Sunday,April,3,2016,n,y,n,n,n,ATTARD,NaN
+Sunday,April,3,2016,y,n,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,y,n,n,n,n,ATTARD,NaN
+Sunday,April,3,2016,n,n,n,n,y,ATTARD,NaN
+Sunday,April,3,2016,n,y,y,n,n,ATTARD,NaN
+Sunday,April,3,2016,y,n,n,n,n,ATTARD,NaN
+Sunday,April,3,2016,n,y,n,n,n,NaN,NaN
+Sunday,April,3,2016,n,n,y,y,n,ĦAQ,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦAQ,NaN
+Sunday,April,3,2016,n,n,y,y,n,ĦAQ,NaN
+Sunday,April,3,2016,n,n,y,y,n,ĦAQ,NaN
+Sunday,April,3,2016,n,n,y,y,n,ĦAQ,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦAQ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦAQ,NaN
+Sunday,April,3,2016,n,y,y,n,n,ĦAQ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦAQ,NaN
+Sunday,April,3,2016,y,n,y,n,n,BALLUTA,NaN
+Sunday,April,3,2016,n,y,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,n,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,y,y,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,n,n,n,y,BALZAN,NaN
+Sunday,April,3,2016,n,y,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,y,n,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,y,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,n,y,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,y,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,y,n,n,n,BALZAN,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRGUMA,NaN
+Sunday,April,3,2016,n,n,n,y,n,BIRGUMA,NaN
+Sunday,April,3,2016,n,n,n,y,n,BIRGUMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRGUMA,NaN
+Sunday,April,3,2016,y,n,y,n,n,BIRGUMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,y,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,y,n,n,n,n,IRKIRKARA,NaN
+Sunday,April,3,2016,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,y,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,y,BIRKIRKARA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEBBUĠA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BLATA L-BAJDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BUĠIBBA,NaN
+Sunday,April,3,2016,n,n,n,n,n,BUĠIBBA,NaN
+Sunday,April,3,2016,n,n,y,n,n,BUĠIBBA,NaN
+Sunday,April,3,2016,y,n,n,n,n,BUĠIBBA,NaN
+Sunday,April,3,2016,n,n,y,n,n,URMARRAD,NaN
+Sunday,April,3,2016,n,n,y,n,n,BURMARRAD,NaN
+Sunday,April,3,2016,n,n,n,n,n,COSPICUA ,NaN
+Sunday,April,3,2016,n,n,n,n,n,COSPICUA ,NaN
+Sunday,April,3,2016,y,n,n,n,n,OSPICUA ,NaN
+Sunday,April,3,2016,n,n,n,n,n,COSPICUA ,NaN
+Sunday,April,3,2016,n,n,n,n,n,COSPICUA ,NaN
+Sunday,April,3,2016,n,n,n,n,n,DINGLI,NaN
+Sunday,April,3,2016,n,n,n,n,n,DINGLI,NaN
+Sunday,April,3,2016,n,n,y,n,n,DINGLI,NaN
+Sunday,April,3,2016,n,n,y,n,n,DINGLI,NaN
+Sunday,April,3,2016,n,y,n,n,n,DINGLI,NaN
+Sunday,April,3,2016,y,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,n,n,y,n,y,FGURA,NaN
+Sunday,April,3,2016,n,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,n,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,y,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,n,y,n,n,n,FGURA,NaN
+Sunday,April,3,2016,n,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,y,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,n,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,n,n,n,n,n,FGURA,NaN
+Sunday,April,3,2016,y,n,n,n,n,FGURA,"104,000"
+Sunday,April,3,2016,n,n,n,n,n,FLORIANA,NaN
+Sunday,April,3,2016,n,n,n,n,n,FLORIANA,"144,000"
+Sunday,April,3,2016,y,n,n,n,n,FORT CAMBIRDGE,NaN
+Sunday,April,3,2016,y,n,y,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,y,y,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦUR,NaN
+Sunday,April,3,2016,y,n,y,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦUR,NaN
+Sunday,April,3,2016,n,n,n,y,y,ĦUR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦUR,"340,000"
+Sunday,April,3,2016,n,n,n,n,n,ĦUR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦUR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦAXAQ,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦAXAQ,NaN
+Sunday,April,3,2016,n,n,y,y,y,GĦAXAQ,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,y,y,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,y,n,y,n,GOZO,NaN
+Sunday,April,3,2016,n,y,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,y,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,y,y,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,y,y,n,n,GOZO,NaN
+Sunday,April,3,2016,n,y,y,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,n,y,GOZO,NaN
+Sunday,April,3,2016,n,y,n,n,n,GOZO,NaN
+Sunday,April,3,2016,y,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,y,n,GOZO,NaN
+Sunday,April,3,2016,n,n,y,y,n,GOZO,NaN
+Sunday,April,3,2016,n,n,y,n,n,GOZO,NaN
+Sunday,April,3,2016,n,n,n,n,n,GUARDAMANGIA,NaN
+Sunday,April,3,2016,y,n,n,n,n,GUARDAMANGIA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA AREA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,n,y,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n, SLIEMA,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦAMRUN,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦAMRUN,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦAMRUN,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦAMRUN,NaN
+Sunday,April,3,2016,y,y,n,n,n,ĦAMRUN,NaN
+Sunday,April,3,2016,n,y,n,n,n,ĦAMRUN,NaN
+Sunday,April,3,2016,n,n,n,n,y,ĦAMRUN,NaN
+Sunday,April,3,2016,n,n,n,n,n,IKLIN,NaN
+Sunday,April,3,2016,n,y,n,n,n,IKLIN,NaN
+Sunday,April,3,2016,n,y,n,n,n,IKLIN,NaN
+Sunday,April,3,2016,n,n,n,y,n,KAPPARA,NaN
+Sunday,April,3,2016,n,y,n,n,n,KAPPARA,NaN
+Sunday,April,3,2016,n,y,n,n,n,KAPPARA,NaN
+Sunday,April,3,2016,n,n,n,n,y,KAPPARA,NaN
+Sunday,April,3,2016,n,y,y,n,n,KAPPARA,NaN
+Sunday,April,3,2016,n,y,y,n,n,KAPPARA,NaN
+Sunday,April,3,2016,n,y,n,n,n,KIRKOP,NaN
+Sunday,April,3,2016,y,n,n,n,n,KIRKOP,NaN
+Sunday,April,3,2016,n,y,n,n,n,LIJA,NaN
+Sunday,April,3,2016,n,n,n,n,n,LIJA,NaN
+Sunday,April,3,2016,n,y,y,n,n,LIJA,NaN
+Sunday,April,3,2016,n,n,y,n,n,LIJA,NaN
+Sunday,April,3,2016,y,n,n,n,n,LIJA,NaN
+Sunday,April,3,2016,n,n,n,n,n,LUQA,NaN
+Sunday,April,3,2016,y,n,n,n,n,LUQA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MADLIENA RIDGE,NaN
+Sunday,April,3,2016,n,n,y,y,n,MADLIENA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MADLIENA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MADLIENA,NaN
+Sunday,April,3,2016,n,y,n,n,n,MANIKATA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MANIKATA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MARSA,"58,000"
+Sunday,April,3,2016,n,n,n,n,n,MARSA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,y,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,y,y,n,n,MARSASCALA,"188,000"
+Sunday,April,3,2016,n,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,n,y,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,y,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,n,y,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,y,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,y,y,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MARSASCALA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MDINA,NaN
+Sunday,April,3,2016,n,y,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,y,y,n,ĦA,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,y,n,n,ĦA,NaN
+Sunday,April,3,2016,n,y,y,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,y,y,y,ĦA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,y,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,y,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,y,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ĦA,NaN
+Sunday,April,3,2016,y,n,y,n,n,ĦA,NaN
+Sunday,April,3,2016,n,n,n,n,y,MENSIJA,NaN
+Sunday,April,3,2016,n,y,y,n,n,MĠARR,NaN
+Sunday,April,3,2016,y,n,n,n,n,MĠARR,NaN
+Sunday,April,3,2016,n,n,n,y,n,MĠARR,NaN
+Sunday,April,3,2016,n,n,n,y,n,MĠARR,NaN
+Sunday,April,3,2016,n,n,y,n,n,MĠRR,NaN
+Sunday,April,3,2016,y,y,n,n,n,MĠARR,NaN
+Sunday,April,3,2016,n,n,y,y,n,MĠARR,NaN
+Sunday,April,3,2016,n,n,n,y,n,MONTEROSA GARDENS,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,y,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,y,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,y,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,y,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,y,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,y,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,y,MOSTA,NaN
+Sunday,April,3,2016,n,n,y,n,n,MOSTA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,"230,000"
+Sunday,April,3,2016,n,n,n,n,n,MOSTA,NaN
+Sunday,April,3,2016,n,n,n,y,n,MQABBA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA CIRCUS,NaN
+Sunday,April,3,2016,y,n,n,n,y,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MSIDA,"360,000"
+Sunday,April,3,2016,n,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,y,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,y,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,"125,000"
+Sunday,April,3,2016,y,n,n,n,n,MSIDA,NaN
+Sunday,April,3,2016,n,n,n,n,n,NaN,NaN
+Sunday,April,3,2016,y,n,n,n,n, TA' XBIEX,NaN
+Sunday,April,3,2016,n,y,n,n,n,MTARFA,NaN
+Sunday,April,3,2016,n,y,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,y,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,y,n,n,NAXXAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,y,y,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,y,n,n,NAXXAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,NAXXAR,NaN
+Sunday,April,3,2016,n,n,y,n,y,NAXXAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,PAOLA,"95,000"
+Sunday,April,3,2016,n,y,n,n,n,PAOLA,NaN
+Sunday,April,3,2016,n,n,n,n,n,PAOLA,NaN
+Sunday,April,3,2016,n,y,n,n,n,PAOLA,NaN
+Sunday,April,3,2016,n,n,n,n,n,PAOLA,NaN
+Sunday,April,3,2016,n,n,y,n,y,PEMBROKE,NaN
+Sunday,April,3,2016,y,y,n,n,n,PIETÀ,NaN
+Sunday,April,3,2016,n,n,n,n,n,PIETÀ,NaN
+Sunday,April,3,2016,y,n,n,n,n,PIETÀ,"96,000"
+Sunday,April,3,2016,y,n,n,n,n,PORTOMASO,NaN
+Sunday,April,3,2016,y,n,n,n,n,PORTOMASO,NaN
+Sunday,April,3,2016,y,n,n,n,n,PORTOMASO,NaN
+Sunday,April,3,2016,n,n,n,n,n,PORTOMASO,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA ,NaN
+Sunday,April,3,2016,y,n,n,y,n,QAWRA POINT,NaN
+Sunday,April,3,2016,n,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,n,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,y,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,n,n,y,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,n,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,y,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,QAWRA,NaN
+Sunday,April,3,2016,n,y,y,n,n,QAWRA,NaN
+Sunday,April,3,2016,n,y,n,n,n,QORMI,NaN
+Sunday,April,3,2016,n,y,y,n,n,QORMI,NaN
+Sunday,April,3,2016,y,n,n,n,n,QORMI,NaN
+Sunday,April,3,2016,y,n,n,n,n,QORMI,"159,000"
+Sunday,April,3,2016,y,n,n,n,n,QORMI,NaN
+Sunday,April,3,2016,n,n,n,n,y,QORMI,NaN
+Sunday,April,3,2016,n,n,y,y,y,QRENDI,NaN
+Sunday,April,3,2016,n,y,n,n,n,QRENDI,NaN
+Sunday,April,3,2016,n,n,n,n,n,RABAT,NaN
+Sunday,April,3,2016,n,y,n,n,y,RABAT,NaN
+Sunday,April,3,2016,n,n,n,y,n,RABAT,NaN
+Sunday,April,3,2016,n,n,y,n,n,RABAT,NaN
+Sunday,April,3,2016,n,n,n,n,n,RABAT,NaN
+Sunday,April,3,2016,n,n,n,n,n,RABAT,NaN
+Sunday,April,3,2016,n,n,n,n,y,SALINA,NaN
+Sunday,April,3,2016,y,y,n,n,n,SALINA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,y,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,y,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,n,y,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,April,3,2016,n,n,y,y,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,y,n,y,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,n,n,y,y,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,n,n,y,y,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,April,3,2016,n,y,n,n,n,SANTA LUĊIJA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SANTA LUĊIJA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SENGLEA ,NaN
+Sunday,April,3,2016,n,n,n,n,n,SENGLEA ,NaN
+Sunday,April,3,2016,n,n,n,n,n,SIĠĠIEWI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,y,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,y,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,y,n,n,y,SLIEMA,NaN
+Sunday,April,3,2016,y,n,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,"266,000"
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,y,n,n,n,LIEMA,NaN
+Sunday,April,3,2016,n,y,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,y,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,y,n,y,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,y,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,y,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,SLIEMA,NaN
+Sunday,April,3,2016,n,n,n,n,y,SLIEMA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻIRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,y,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,y,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,y,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,y,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,n,y,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,y,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,y,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,n,n,n,n,y,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST JULIANS,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,n,y,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,n,n,y,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,n,n,y,n,n,ST PAUL' S BAY,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST PAUL' S,NaN
+Sunday,April,3,2016,n,y,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,n,y,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,y,y,n,n,ST VENERA,NaN
+Sunday,April,3,2016,n,y,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,n,y,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,n,y,n,n,y,ST VENERA,NaN
+Sunday,April,3,2016,y,y,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ST VENERA,NaN
+Sunday,April,3,2016,n,n,y,n,n,ST VENERA,NaN
+Sunday,April,3,2016,n,n,y,n,y,ST VENERA,NaN
+Sunday,April,3,2016,n,n,y,n,n,SWATAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWATAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWATAR,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWATAR,NaN
+Sunday,April,3,2016,n,y,y,n,n,SWATAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,n,y,n,n,SWIEQI,"65,000"
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,y,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,y,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,n,y,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,y,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,y,n,n,n,n,SWIEQI,NaN
+Sunday,April,3,2016,n,y,y,n,n,SWIEQI,"235,000"
+Sunday,April,3,2016,n,n,y,n,n,TA' PARIS,NaN
+Sunday,April,3,2016,y,n,n,n,n,TA' PARIS,NaN
+Sunday,April,3,2016,y,n,n,n,n,TA' XBIEX,NaN
+Sunday,April,3,2016,y,n,n,n,n,TA' XBIEX,NaN
+Sunday,April,3,2016,n,n,y,n,n,TA' XBIEX,NaN
+Sunday,April,3,2016,y,n,n,n,n,TA' XBIEX,NaN
+Sunday,April,3,2016,y,n,n,y,n,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,n,n,n,y,n,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,n,n,y,y,n,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,n,y,n,n,n,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,y,n,n,n,n,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,n,n,y,n,y,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,n,y,y,n,n,TAL-IBRAĠ,NaN
+Sunday,April,3,2016,n,y,y,n,n, SWIEQI,NaN
+Sunday,April,3,2016,n,n,n,n,y,TARXIEN,NaN
+Sunday,April,3,2016,y,n,n,n,n,TARXIEN,NaN
+Sunday,April,3,2016,n,n,n,n,n,TARXIEN,NaN
+Sunday,April,3,2016,n,y,n,n,n,TARXIEN,NaN
+Sunday,April,3,2016,n,y,n,n,n,TARXIEN,NaN
+Sunday,April,3,2016,n,n,y,y,y,TAS-SILĠ,NaN
+Sunday,April,3,2016,y,n,n,n,n, POINT,NaN
+Sunday,April,3,2016,y,n,y,n,n,TOWER ROAD,NaN
+Sunday,April,3,2016,n,n,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,ALLETTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,y,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,n,n,n,n,VALLETTA,NaN
+Sunday,April,3,2016,n,y,y,y,n,VICTORIA GARDENS,NaN
+Sunday,April,3,2016,y,n,n,n,n,VITTORIOSA ,NaN
+Sunday,April,3,2016,n,n,y,n,y,XEMXIJA HEIGHTS,NaN
+Sunday,April,3,2016,y,n,n,n,n,XEMXIJA,NaN
+Sunday,April,3,2016,n,n,n,n,n,XEMXIJA,NaN
+Sunday,April,3,2016,y,n,n,n,n,XEMXIJA,NaN
+Sunday,April,3,2016,n,y,n,n,n,XEMXIJA,NaN
+Sunday,April,3,2016,n,n,n,n,n,XEMXIJA,"128,000"
+Sunday,April,3,2016,y,n,y,n,n,XEMXIJA,NaN
+Sunday,April,3,2016,y,n,n,n,n,XEMXIJA,NaN
+Sunday,April,3,2016,n,n,y,n,n,ĦAJRA,NaN
+Sunday,April,3,2016,n,n,y,n,y,ĦAJRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦAJRA,NaN
+Sunday,April,3,2016,y,n,n,n,n,ĦAJRA,NaN
+Sunday,April,3,2016,n,y,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻABBAR,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻEBBIEĦ,NaN
+Sunday,April,3,2016,n,n,y,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,y,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,y,n,y,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,y,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,y,y,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,n,n,y,n,n,ŻEBBUĠ,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻEJTUN,"95,000"
+Sunday,April,3,2016,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,n,y,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,n,n,n,y,n,ŻEJTUN,NaN
+Sunday,April,3,2016,y,n,n,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,n,y,n,n,n,ŻEJTUN,"215,000"
+Sunday,April,3,2016,n,n,y,n,n,ŻEJTUN,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻURRIEQ,NaN
+Sunday,April,3,2016,n,n,n,y,y,ŻURRIEQ,"390,000"
+Sunday,April,3,2016,n,n,n,y,n,ŻURRIEQ,NaN
+Sunday,April,3,2016,n,n,y,n,n,ŻURRIEQ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻURRIEQ,NaN
+Sunday,April,3,2016,n,n,n,n,n,ŻURRIEQ,NaN
+Sunday,April,3,2016,n,n,n,y,y,ŻURRIEQ,NaN
+Saturday,April,2,2016,y,n,n,n,n,GOZO,"115,000"
+Saturday,April,2,2016,n,y,n,y,n,GOZO,NaN
+Saturday,April,2,2016,y,n,y,n,n,GOZO,"120,000"
+Saturday,April,2,2016,n,y,y,n,n,GOZO,"110,000"
+Saturday,April,2,2016,y,n,n,n,n,GOZO,"158,000"
+Saturday,April,2,2016,n,n,n,n,n,GOZO,"95,000"
+Saturday,April,2,2016,n,n,y,n,n,ST JULIANS,"540,000"
+Saturday,April,2,2016,n,n,n,n,n, MENSIJA,"699,000"
+Saturday,April,2,2016,n,n,n,n,n,ŻEJTUN,"168,000"
+Friday,April,1,2016,n,n,n,n,n,GOZO,"303,000"
+Friday,April,1,2016,y,n,n,n,n,GOZO,"105,000"
+Friday,April,1,2016,n,y,n,n,n,GOZO,"198,000"
+Friday,April,1,2016,n,n,y,n,n,GOZO,"233,000"
+Friday,April,1,2016,n,n,n,n,n,GŻIRA,"79,500"
+Friday,April,1,2016,y,n,n,n,n,MARSASCALA,NaN
+Friday,April,1,2016,n,n,y,n,y,MELLIEĦA,"295,000"
+Friday,April,1,2016,n,n,y,n,n,MELLIEĦA,"330,000"
+Friday,April,1,2016,y,n,n,n,n,NAXXAR,NaN
+Friday,April,1,2016,n,n,n,n,n,NaN,NaN
+Friday,April,1,2016,y,n,n,n,n,ST JULIANS,"170,000"
+Friday,April,1,2016,n,n,n,n,n,ST JULIANS,"480,000"
+Friday,April,1,2016,n,y,n,n,n,ST VENERA,NaN
+Thursday,March,31,2016,n,y,n,n,n,BALZAN,"220,000"
+Thursday,March,31,2016,y,n,n,n,n,BIRKIRKARA,NaN
+Thursday,March,31,2016,y,n,n,n,n,GOZO,"259,000"
+Thursday,March,31,2016,n,n,y,y,n,GOZO,"180,000"
+Thursday,March,31,2016,n,n,n,n,n,GUARDAMANGIA,"160,000"
+Thursday,March,31,2016,n,n,y,n,n,ĦAMRUN,"76,000"
+Thursday,March,31,2016,n,n,n,n,n,ĦAMRUN,"69,000"
+Thursday,March,31,2016,n,y,n,n,n,LIJA,"159,000"
+Thursday,March,31,2016,y,n,y,n,n,MARSASCALA,"130,000"
+Thursday,March,31,2016,n,y,y,n,n,MĠARR,"187,000"
+Thursday,March,31,2016,n,n,n,n,n,MOSTA,"350,000"
+Thursday,March,31,2016,y,n,n,n,n,MSIDA CIRCUS,"115,000"
+Thursday,March,31,2016,y,n,n,n,n,MSIDA,"120,000"
+Thursday,March,31,2016,n,n,n,n,n,NAXXAR,"275,000"
+Thursday,March,31,2016,y,n,n,n,n,NAXXAR,"135,000"
+Thursday,March,31,2016,n,n,y,n,y,NAXXAR,NaN
+Thursday,March,31,2016,n,n,n,n,n,QRENDI,"230,000"
+Thursday,March,31,2016,y,n,n,n,n,SAN ĠWANN,"126,000"
+Thursday,March,31,2016,n,n,n,n,n,NaN,NaN
+Thursday,March,31,2016,y,n,n,n,n,ST JULIANS,"250,000"
+Thursday,March,31,2016,y,n,n,n,n,SWIEQI,NaN
+Thursday,March,31,2016,n,n,y,y,y,TAS-SILĠ,"650,000"
+Thursday,March,31,2016,n,n,y,y,n,VICTORIA GARDENS,"435,000"
+Thursday,March,31,2016,y,n,n,n,n,ŻEJTUN,"135,000"
+Wednesday,March,30,2016,n,n,n,n,y,ATTARD,"1,350"
+Wednesday,March,30,2016,n,n,n,n,n,ATTARD,"185,000"
+Wednesday,March,30,2016,n,y,y,n,n,ATTARD,"295,000"
+Wednesday,March,30,2016,y,n,n,n,n,BAĦRIJA,"205,350"
+Wednesday,March,30,2016,n,n,n,y,n,BIRGUMA,"690,000"
+Wednesday,March,30,2016,n,n,n,n,n,BIRKIRKARA,"88,000"
+Wednesday,March,30,2016,n,n,n,n,n,FLORIANA,"144,000"
+Wednesday,March,30,2016,y,n,n,n,n,GOZO,"85,000"
+Wednesday,March,30,2016,n,n,n,y,y,GOZO,"550,000"
+Wednesday,March,30,2016,y,n,y,n,n,GOZO,"190,000"
+Wednesday,March,30,2016,y,n,n,n,n,GOZO,"69,000"
+Wednesday,March,30,2016,y,n,n,n,n,NaN,NaN
+Wednesday,March,30,2016,y,n,n,n,n,GŻIRA,"145,000"
+Wednesday,March,30,2016,n,n,n,n,n,KAPPARA,"750,000"
+Wednesday,March,30,2016,y,n,n,n,n,MARSASCALA,NaN
+Wednesday,March,30,2016,y,y,n,n,n,MOSTA,"186,000"
+Wednesday,March,30,2016,n,n,n,n,n,MOSTA,NaN
+Wednesday,March,30,2016,y,n,n,n,n,NAXXAR,NaN
+Wednesday,March,30,2016,y,n,n,n,n,PORTOMASO,"420,000"
+Wednesday,March,30,2016,n,y,n,n,n,RABAT,"140,000"
+Wednesday,March,30,2016,n,n,n,n,n,SLIEMA ,NaN
+Wednesday,March,30,2016,y,n,y,n,n,ST JULIANS,"385,000"
+Wednesday,March,30,2016,y,n,n,n,n,ST JULIANS,"170,000"
+Wednesday,March,30,2016,n,y,n,n,n,ST VENERA,NaN
+Wednesday,March,30,2016,n,n,n,n,n,TAL-IBRAĠ,"380,000"
+Wednesday,March,30,2016,n,n,n,n,n,UNIVERSITY HEIGHTS,"148,000"
+Wednesday,March,30,2016,n,n,n,n,n,VALLETTA,"1,750"
+Wednesday,March,30,2016,y,n,n,n,n,VALLETTA,"350,000"
+Wednesday,March,30,2016,y,n,n,n,n,VALLETTA,"455,000"
+Wednesday,March,30,2016,n,n,n,n,n,VALLETTA,"1,000"
+Tuesday,March,29,2016,n,n,n,n,n,ATTARD,"185,000"
+Tuesday,March,29,2016,n,n,n,n,y,GĦARGĦUR,"280,000"
+Tuesday,March,29,2016,y,n,n,n,n,GOZO,"85,000"
+Tuesday,March,29,2016,y,n,y,n,n,GOZO,"235,000"
+Tuesday,March,29,2016,y,n,n,n,n,MSIDA,"120,000"
+Tuesday,March,29,2016,y,n,n,n,n,NAXXAR,"135,000"
+Tuesday,March,29,2016,n,n,n,n,n,NAXXAR,"150,000"
+Tuesday,March,29,2016,n,n,y,n,n,SLIEMA,"369,000"
+Tuesday,March,29,2016,n,n,n,n,n,ST JULIANS,"480,000"
+Tuesday,March,29,2016,n,n,n,n,n,ŻEBBUĠ,"135,000"
+Monday,March,28,2016,n,n,n,n,n,ATTARD,"185,000"
+Monday,March,28,2016,n,n,n,n,n,MARSASCALA,"360,000"
+Monday,March,28,2016,y,n,n,n,n,SLIEMA,"742,000"
+Monday,March,28,2016,n,n,y,n,n,SLIEMA,"369,000"
+Monday,March,28,2016,n,n,y,n,n,ST JULIANS,"540,000"

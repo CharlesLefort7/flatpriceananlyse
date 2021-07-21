@@ -1,0 +1,439 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Monday,August,6,2018,n,n,n,n,n,SLIEMA,"375,000"
+Sunday,August,5,2018,n,n,n,n,y,NaN,NaN
+Sunday,August,5,2018,y,n,n,n,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,y,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,y,y,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,August,5,2018,n,y,n,n,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,August,5,2018,y,n,n,n,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,y,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,y,n,ATTARD,NaN
+Sunday,August,5,2018,n,y,y,n,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,y,y,n,ATTARD,NaN
+Sunday,August,5,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,August,5,2018,y,n,n,n,n,BAĦAR IĊ-ĊAGĦAQ,NaN
+Sunday,August,5,2018,n,n,n,n,n,BAĦAR IĊ-ĊAGĦAQ,NaN
+Sunday,August,5,2018,y,n,n,n,n,BAĦAR IĊ-ĊAGĦAQ,NaN
+Sunday,August,5,2018,y,n,y,n,n,BAHAR IĊ-ĊAGĦAQ,NaN
+Sunday,August,5,2018,y,n,n,n,n,BAĦAR IĊ-ĊAGĦAQ,NaN
+Sunday,August,5,2018,y,y,y,n,n,BAĦAR IĊ-ĊAGĦAQ,NaN
+Sunday,August,5,2018,y,n,n,n,n,BAĦRIJA ,NaN
+Sunday,August,5,2018,y,n,n,n,n,BALZAN,NaN
+Sunday,August,5,2018,n,n,n,n,n,BALZAN,NaN
+Sunday,August,5,2018,n,n,y,y,n,BALZAN,NaN
+Sunday,August,5,2018,y,n,y,n,n,BALZAN,NaN
+Sunday,August,5,2018,n,n,n,n,n,BALZAN,NaN
+Sunday,August,5,2018,n,y,y,n,n, ,NaN
+Sunday,August,5,2018,y,n,y,n,n,BIRGUMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,y,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,August,5,2018,n,y,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,August,5,2018,y,n,y,n,n,BIRŻEBBUĠA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BIRZEBUĠĠIA,NaN
+Sunday,August,5,2018,n,y,n,n,n,BLATA L-BAJDA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BUĠIBBA ,NaN
+Sunday,August,5,2018,n,n,n,n,n,BUĠIBBA,NaN
+Sunday,August,5,2018,y,n,n,n,n,BUĠIBBA,NaN
+Sunday,August,5,2018,n,n,n,n,n,BUĠIBBA,NaN
+Sunday,August,5,2018,n,n,y,y,y,BUSKETT,NaN
+Sunday,August,5,2018,n,n,y,y,n,BUSKETT,NaN
+Sunday,August,5,2018,n,n,n,n,n,COSPICUA,NaN
+Sunday,August,5,2018,n,y,n,n,n,COSPICUA,NaN
+Sunday,August,5,2018,n,n,n,n,n,COSPICUA,NaN
+Sunday,August,5,2018,n,y,y,n,n,DINGLI,NaN
+Sunday,August,5,2018,y,n,y,n,n,FGURA,NaN
+Sunday,August,5,2018,n,y,n,n,n,FGURA,NaN
+Sunday,August,5,2018,n,y,y,n,n,FGURA,NaN
+Sunday,August,5,2018,n,y,n,n,n,FGURA,NaN
+Sunday,August,5,2018,y,n,n,n,n,FLORIANA,NaN
+Sunday,August,5,2018,n,n,n,n,n,FLORIANA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GĦARGĦUR,NaN
+Sunday,August,5,2018,n,n,n,n,n,GĦARGĦUR,NaN
+Sunday,August,5,2018,n,n,n,n,n,GĦARGĦUR,NaN
+Sunday,August,5,2018,y,n,n,n,n,GĦARGĦUR,NaN
+Sunday,August,5,2018,n,n,n,n,n,GĦARGĦUR,NaN
+Sunday,August,5,2018,n,n,y,y,y,GĦARGHUR,NaN
+Sunday,August,5,2018,y,n,n,n,n,GĦARGĦUR,NaN
+Sunday,August,5,2018,n,n,n,n,n,GĦAXAQ,NaN
+Sunday,August,5,2018,n,n,y,y,n,GOZO QALA,NaN
+Sunday,August,5,2018,n,n,n,n,n,NaN,NaN
+Sunday,August,5,2018,y,n,n,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,y,n,n,GOZO,NaN
+Sunday,August,5,2018,y,y,y,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,n,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,n,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,n,n,n,GOZO,NaN
+Sunday,August,5,2018,n,y,n,n,n,GOZO,NaN
+Sunday,August,5,2018,y,y,y,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,n,n,y,GOZO,NaN
+Sunday,August,5,2018,n,n,n,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,n,y,n,GOZO,NaN
+Sunday,August,5,2018,y,n,y,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,y,n,n,GOZO,NaN
+Sunday,August,5,2018,y,n,n,n,n,GOZO,NaN
+Sunday,August,5,2018,n,n,n,n,n,GUARDAMANGIA,NaN
+Sunday,August,5,2018,y,n,n,n,n,GUARDAMANGIA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GUDJA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GWARDAMANGIA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,n,y,n,n,GŻIRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,n,y,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,n,y,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,n,y,n,n,n,GŻIRA,NaN
+Sunday,August,5,2018,y,y,n,n,n,ĦAMRUN,NaN
+Sunday,August,5,2018,n,y,n,n,n,ĦAMRUN,NaN
+Sunday,August,5,2018,n,n,n,n,n,ĦAMRUN,NaN
+Sunday,August,5,2018,y,y,n,n,n,KALKARA,NaN
+Sunday,August,5,2018,n,n,n,y,y,KALKARA,NaN
+Sunday,August,5,2018,n,y,n,n,n,KALKARA,NaN
+Sunday,August,5,2018,n,y,n,y,y,KALKARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,KALKARA,NaN
+Sunday,August,5,2018,y,n,n,n,n,KALKARA,NaN
+Sunday,August,5,2018,n,n,n,n,y,KALKARA,NaN
+Sunday,August,5,2018,n,n,n,y,n,KAPPARA,NaN
+Sunday,August,5,2018,n,n,y,n,y,KAPPARA,NaN
+Sunday,August,5,2018,n,n,n,y,n,KAPPARA,NaN
+Sunday,August,5,2018,n,n,y,n,n,KAPPARA,NaN
+Sunday,August,5,2018,y,n,y,n,n,KAPPARA,NaN
+Sunday,August,5,2018,n,n,y,y,n,KAPPARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,KAPPARA,NaN
+Sunday,August,5,2018,n,n,n,n,n,KIRKOP,NaN
+Sunday,August,5,2018,n,n,y,n,n,NaN,NaN
+Sunday,August,5,2018,n,n,n,n,n,LIJA,NaN
+Sunday,August,5,2018,y,n,y,n,n,LIJA,NaN
+Sunday,August,5,2018,n,n,n,y,y,LIJA,NaN
+Sunday,August,5,2018,n,n,n,n,y,LIJA,NaN
+Sunday,August,5,2018,n,n,y,y,y,LIJA,NaN
+Sunday,August,5,2018,y,n,n,n,n,LUQA,NaN
+Sunday,August,5,2018,n,n,y,n,n,LUQA,NaN
+Sunday,August,5,2018,n,n,n,n,y,LUQA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MADLIENA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MADLIENA,NaN
+Sunday,August,5,2018,n,n,n,n,n,NaN,NaN
+Sunday,August,5,2018,y,n,n,n,n,MANIKATA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MANIKATA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MANIKATA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MARSA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,y,n,y,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,y,n,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,y,n,y,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,n,n,y,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,y,n,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MARSASCALA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MARSAXLOKK,NaN
+Sunday,August,5,2018,n,n,n,n,y,MARSAXLOKK,"900,000"
+Sunday,August,5,2018,n,n,n,n,n,NaN,NaN
+Sunday,August,5,2018,n,y,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,y,n,n,n,MELLIEHA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,n,y,y,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,n,y,y,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,n,y,y,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,y,n,y,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MELLIEĦA,NaN
+Sunday,August,5,2018,y,n,n,y,n,MENSIJA,NaN
+Sunday,August,5,2018,n,n,n,y,y,MENSIJA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MĠARR,NaN
+Sunday,August,5,2018,n,n,n,n,n,MĠARR,NaN
+Sunday,August,5,2018,n,n,n,n,n,MĠARR,NaN
+Sunday,August,5,2018,n,n,y,n,n,MONTEROSA GARDEN' S,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA ,NaN
+Sunday,August,5,2018,n,n,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,y,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,y,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,y,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,y,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MOSTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MOSTA,NaN
+Sunday,August,5,2018,n,n,n,y,y,MQABBA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MSIDA CIRCUS,NaN
+Sunday,August,5,2018,n,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,n,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,y,n,y,n,n,MSIDA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,n,n,y,n,n,MSIDA,NaN
+Sunday,August,5,2018,n,y,n,n,y,MSIDA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,y,n,y,n,n,MSIDA,NaN
+Sunday,August,5,2018,n,y,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,y,n,n,n,n,MSIDA,NaN
+Sunday,August,5,2018,n,n,n,n,n,NAXXAR,NaN
+Sunday,August,5,2018,n,n,y,y,y,NAXXAR,NaN
+Sunday,August,5,2018,n,n,n,n,n,NAXXAR,NaN
+Sunday,August,5,2018,n,n,y,n,n,NAXXAR,NaN
+Sunday,August,5,2018,n,n,n,n,n,NAXXAR,NaN
+Sunday,August,5,2018,y,n,n,n,n,NAXXAR,NaN
+Sunday,August,5,2018,y,n,n,n,n,NAXXAR,NaN
+Sunday,August,5,2018,n,n,n,n,n,NAXXAR,NaN
+Sunday,August,5,2018,n,n,n,n,y,NAXXAR,NaN
+Sunday,August,5,2018,n,n,n,n,n, ,NaN
+Sunday,August,5,2018,n,n,n,n,n,PAOLA,NaN
+Sunday,August,5,2018,y,n,n,n,n,PAOLA,NaN
+Sunday,August,5,2018,n,n,n,n,n,PEMBROKE,NaN
+Sunday,August,5,2018,n,n,n,n,n,PEMBROKE,NaN
+Sunday,August,5,2018,n,n,n,n,n,PENDER GARDENS,NaN
+Sunday,August,5,2018,n,n,n,n,n,PIETÀ,NaN
+Sunday,August,5,2018,y,n,n,n,n,PIETÀ,NaN
+Sunday,August,5,2018,y,n,n,n,n,PIETÀ,NaN
+Sunday,August,5,2018,y,n,n,n,n,PIETÀ,NaN
+Sunday,August,5,2018,y,n,n,n,n,PIETÀ,NaN
+Sunday,August,5,2018,y,n,n,n,n,PIETÀ,NaN
+Sunday,August,5,2018,y,n,n,n,n,PORTOMASO,NaN
+Sunday,August,5,2018,y,n,n,n,n,QAWRA POINT,NaN
+Sunday,August,5,2018,n,y,n,y,n,QAWRA POINT,NaN
+Sunday,August,5,2018,y,n,y,n,n,QAWRA POINT,NaN
+Sunday,August,5,2018,n,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,n,n,y,n,n,QAWRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,QAWRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,QORMI,NaN
+Sunday,August,5,2018,n,n,n,n,n,QRENDI,NaN
+Sunday,August,5,2018,n,n,n,n,n,RABAT,NaN
+Sunday,August,5,2018,n,n,n,n,n,RABAT,NaN
+Sunday,August,5,2018,n,n,n,y,y,RABAT,NaN
+Sunday,August,5,2018,y,n,n,n,n,RABAT,NaN
+Sunday,August,5,2018,y,n,n,n,n,SAFI,NaN
+Sunday,August,5,2018,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,y,n,n,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,n,n,n,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,n,y,y,n,n,SAN ĠWANN,NaN
+Sunday,August,5,2018,n,n,n,n,y,SAN ĠWANN,NaN
+Sunday,August,5,2018,y,n,n,n,n,SAN PAWL IL-BAĦAR,NaN
+Sunday,August,5,2018,y,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,August,5,2018,n,n,n,y,y,SAN PAWL TAT-TARĠA,NaN
+Sunday,August,5,2018,n,n,n,y,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,August,5,2018,n,n,y,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SAN PAWL TAT-TARĠA,NaN
+Sunday,August,5,2018,n,n,n,n,y,SANTA LUCIJA,NaN
+Sunday,August,5,2018,y,n,n,n,y,SAVOY GARDEN' S,NaN
+Sunday,August,5,2018,n,n,n,n,n,SENGLEA,NaN
+Sunday,August,5,2018,n,n,n,n,y,SENGLEA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SENGLEA,NaN
+Sunday,August,5,2018,n,n,n,n,y,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,y,n,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,y,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,y,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SIĠĠIEWI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SIĠĠIEWI,"325,000"
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,y,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,y,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,"330,000"
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,August,5,2018,n,n,n,n,y,NaN,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST GEORGES PARK,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST JULIAN' S,NaN
+Sunday,August,5,2018,n,n,y,n,n,ST JULIAN' S,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST JULIAN' S,NaN
+Sunday,August,5,2018,y,n,n,y,n,ST JULIAN' S,NaN
+Sunday,August,5,2018,n,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,n,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,y,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,n,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,y,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,n,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,y,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,n,n,n,n,n,ST JULIANS,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST PAUL' S BAY,NaN
+Sunday,August,5,2018,y,n,n,n,n,ST VENERA,NaN
+Sunday,August,5,2018,n,y,n,n,n,ST VENERA,NaN
+Sunday,August,5,2018,n,n,y,n,n,ST VENERA,NaN
+Sunday,August,5,2018,n,n,y,y,n,ST JULIANS,NaN
+Sunday,August,5,2018,n,n,n,n,n,ST PAUL' S,NaN
+Sunday,August,5,2018,y,n,n,n,n,NaN,NaN
+Sunday,August,5,2018,n,n,n,n,n,SWATAR,NaN
+Sunday,August,5,2018,n,n,y,n,n,SWATAR,NaN
+Sunday,August,5,2018,n,n,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,y,n,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,n,y,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,n,y,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,y,n,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,y,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,n,y,n,n,SWIEQI,NaN
+Sunday,August,5,2018,y,n,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,n,n,n,n,SWIEQI,NaN
+Sunday,August,5,2018,n,n,n,n,n,TA' QALI,NaN
+Sunday,August,5,2018,y,n,n,n,n,TA' XBIEX,NaN
+Sunday,August,5,2018,n,n,n,n,n,TA' XBIEX,NaN
+Sunday,August,5,2018,n,n,y,n,n,-IBRAĠ,NaN
+Sunday,August,5,2018,y,n,n,n,n,TAL-IBRAĠ,NaN
+Sunday,August,5,2018,n,n,y,n,y,TAL-IBRAĠ,NaN
+Sunday,August,5,2018,n,n,y,n,n,TAL-IBRAĠ,NaN
+Sunday,August,5,2018,y,n,y,n,n,TAL-IBRAĠ,NaN
+Sunday,August,5,2018,n,y,y,n,n,TAL-IBRAĠ,NaN
+Sunday,August,5,2018,y,n,n,n,n,TARXIEN,NaN
+Sunday,August,5,2018,n,y,y,n,n,TARXIEN,NaN
+Sunday,August,5,2018,n,n,n,n,n,TARXIEN,NaN
+Sunday,August,5,2018,y,n,n,n,n,THE VILLAGE,NaN
+Sunday,August,5,2018,n,n,n,y,y,TUSCANY,NaN
+Sunday,August,5,2018,y,n,n,n,n,VALLETTA,NaN
+Sunday,August,5,2018,n,y,n,n,n,VALLETTA,NaN
+Sunday,August,5,2018,n,n,n,n,n,VALLETTA,NaN
+Sunday,August,5,2018,n,y,n,n,n,VALLETTA,NaN
+Sunday,August,5,2018,y,n,n,n,n,VITTORIOSA,NaN
+Sunday,August,5,2018,n,y,n,n,n,VITTORIOSA,NaN
+Sunday,August,5,2018,y,n,n,n,n,XEMXIJA HEIGHTS,NaN
+Sunday,August,5,2018,n,y,y,n,y,XEMXIJA,NaN
+Sunday,August,5,2018,n,y,n,n,n,XEMXIJA,NaN
+Sunday,August,5,2018,n,n,n,n,n,XEMXIJA,NaN
+Sunday,August,5,2018,n,n,n,n,n,XGĦAJRA,NaN
+Sunday,August,5,2018,n,n,n,n,n,XGĦAJRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,XGĦAJRA,NaN
+Sunday,August,5,2018,y,n,n,n,n,ŻABBAR,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻABBAR,NaN
+Sunday,August,5,2018,n,n,n,n,y,ŻABBAR,NaN
+Sunday,August,5,2018,n,n,n,n,y,ŻABBAR,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEBBIEGĦ,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEBBIEGĦ,NaN
+Sunday,August,5,2018,y,n,n,n,n,ŻEBBIEGĦ,NaN
+Sunday,August,5,2018,n,n,n,n,y,ŻEBBUĠ,NaN
+Sunday,August,5,2018,y,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,August,5,2018,y,n,y,n,n,ŻEBBUĠ,NaN
+Sunday,August,5,2018,y,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,August,5,2018,n,y,n,n,n,ŻEBBUĠ,NaN
+Sunday,August,5,2018,n,n,y,y,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,y,y,y,ŻEJTUN,NaN
+Sunday,August,5,2018,n,y,y,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,y,n,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,y,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,n,y,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,y,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,August,5,2018,n,n,n,y,n,ŻURRIEQ,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻURRIEQ,NaN
+Sunday,August,5,2018,y,n,n,n,n,ŻURRIEQ,NaN
+Sunday,August,5,2018,n,n,n,n,n,ŻURRIEQ,NaN
+Sunday,August,5,2018,y,n,n,n,n,ŻURRIEQ,NaN
+Sunday,August,5,2018,y,n,y,n,n,ŻURRIEQ,NaN
+Saturday,August,4,2018,y,n,n,n,n,VALLETTA,"670,000"
+Saturday,August,4,2018,n,n,n,y,n,RABAT,NaN
+Saturday,August,4,2018,n,n,n,n,n,SLIEMA,NaN
+Saturday,August,4,2018,y,n,n,n,n,BUĠIBBA,"260,000"
+Saturday,August,4,2018,n,n,n,n,n,SLIEMA,"375,000"
+Saturday,August,4,2018,y,n,n,n,n,MADLIENA,"470,000"
+Saturday,August,4,2018,n,n,n,n,n,DINGLI,NaN
+Friday,August,3,2018,y,n,n,n,n,BUĠIBBA,"260,000"
+Friday,August,3,2018,n,n,y,n,n,GOZO,"250,000"
+Friday,August,3,2018,y,n,n,n,n,MADLIENA,"470,000"
+Friday,August,3,2018,y,n,n,n,n,MOSTA,"160,000"
+Friday,August,3,2018,y,n,n,n,n,QAWRA,"158,000"
+Friday,August,3,2018,n,n,n,n,n,SLIEMA,"375,000"
+Friday,August,3,2018,y,n,n,n,n,TAL-IBRAĠ,NaN
+Thursday,August,2,2018,y,n,y,n,n,LIJA,"285,000"
+Thursday,August,2,2018,n,n,y,y,y,LIJA,NaN
+Thursday,August,2,2018,y,n,n,n,n,MADLIENA,"470,000"
+Thursday,August,2,2018,y,n,n,n,n,MOSTA,"160,000"
+Thursday,August,2,2018,n,n,n,n,n,SLIEMA,"375,000"
+Wednesday,August,1,2018,n,n,n,n,n,DINGLI,NaN
+Wednesday,August,1,2018,y,n,y,y,n,GOZO,"150,000"
+Wednesday,August,1,2018,n,n,n,n,n,GOZO,NaN
+Wednesday,August,1,2018,y,n,n,n,n,MADLIENA,"470,000"
+Wednesday,August,1,2018,y,n,n,n,n,MOSTA,"160,000"
+Wednesday,August,1,2018,y,n,n,n,n,QAWRA,"158,000"
+Wednesday,August,1,2018,y,n,n,n,n,SAN ĠWANN,NaN
+Wednesday,August,1,2018,n,n,y,n,n,ST JULIANS,NaN
+Wednesday,August,1,2018,y,n,n,n,n,TAL-IBRAĠ,NaN
+Tuesday,July,31,2018,n,n,n,y,n,GOZO,"296,000"
+Tuesday,July,31,2018,y,n,y,n,n,LIJA,"285,000"
+Tuesday,July,31,2018,y,n,n,n,n,MOSTA,"160,000"
+Tuesday,July,31,2018,n,n,n,n,n,TAL-IBRAĠ,NaN
+Monday,July,30,2018,n,n,n,n,n,GOZO,"165,000"

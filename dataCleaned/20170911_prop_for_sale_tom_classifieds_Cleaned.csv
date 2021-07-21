@@ -1,0 +1,48 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Monday,September,11,2017,y,n,y,n,n,GOZO,"110,000"
+Monday,September,11,2017,n,n,n,n,n,ST JULIANS,NaN
+Saturday,September,9,2017,y,n,n,n,n,ATTARD,"240,000"
+Saturday,September,9,2017,n,n,y,y,y,BIRGUMA,"888,000"
+Saturday,September,9,2017,n,n,n,n,n,GOZO,"195,000"
+Saturday,September,9,2017,y,n,n,n,n,GOZO,"117,000"
+Saturday,September,9,2017,n,n,y,n,y,GOZO,"495,000"
+Saturday,September,9,2017,y,n,n,n,n,GOZO,"275,000"
+Saturday,September,9,2017,y,n,y,n,n,GOZO,"120,000"
+Saturday,September,9,2017,n,n,n,n,n,GŻIRA,NaN
+Saturday,September,9,2017,n,n,n,y,y,MELLIEĦA,"1,350"
+Saturday,September,9,2017,n,n,y,n,n,NAXXAR,NaN
+Saturday,September,9,2017,n,n,n,n,n,SAN ĠWANN,"159,500"
+Saturday,September,9,2017,y,n,n,n,n,SLIEMA,"155,000"
+Saturday,September,9,2017,n,n,n,n,n,ST JULIANS,NaN
+Saturday,September,9,2017,n,n,y,n,n,TAL-IBRAĠ,"700,000"
+Friday,September,8,2017,n,n,n,n,n,GOZO,"195,000"
+Friday,September,8,2017,n,n,n,n,n,GOZO,"330,000"
+Friday,September,8,2017,y,n,n,n,n,MARSASCALA,"182,000"
+Friday,September,8,2017,y,n,n,n,n,SAN ĠWANN,"225,000"
+Friday,September,8,2017,y,n,n,n,n,TAL-IBRAĠ,"300,000"
+Friday,September,8,2017,y,n,n,n,n,ŻABBAR,"130,000"
+Friday,September,8,2017,n,n,n,n,n,ŻEBBIEGĦ,"600,000"
+Thursday,September,7,2017,n,n,n,n,n,GOZO,"268,000"
+Thursday,September,7,2017,n,n,n,n,n,GŻIRA,NaN
+Thursday,September,7,2017,y,n,y,n,n,MARSASCALA,"190,000"
+Thursday,September,7,2017,y,n,n,n,n,TARXIEN,"115,000"
+Wednesday,September,6,2017,y,n,y,n,n,ATTARD,"235,000"
+Wednesday,September,6,2017,n,y,y,n,n,BIRKIRKARA,NaN
+Wednesday,September,6,2017,y,n,n,n,n,GOZO,"147,000"
+Wednesday,September,6,2017,n,n,n,n,n,GOZO,"99,500"
+Wednesday,September,6,2017,n,n,n,n,n,GOZO,"175,000"
+Wednesday,September,6,2017,y,n,n,n,n,MARSASCALA,"182,000"
+Wednesday,September,6,2017,n,n,n,n,n,MDINA,"850,000"
+Wednesday,September,6,2017,y,n,n,n,n,SLIEMA,"155,000"
+Wednesday,September,6,2017,y,n,y,n,n,ST JULIANS,"650,000"
+Wednesday,September,6,2017,n,n,n,n,n,ST JULIANS,"318,000"
+Wednesday,September,6,2017,n,n,n,n,n,TAL-IBRAĠ,NaN
+Wednesday,September,6,2017,y,n,n,n,n,TAL-IBRAĠ,"300,000"
+Wednesday,September,6,2017,y,n,n,n,n,ŻABBAR,"130,000"
+Tuesday,September,5,2017,y,n,n,n,n,GOZO,"147,000"
+Tuesday,September,5,2017,y,n,y,n,n,MARSASCALA,"190,000"
+Tuesday,September,5,2017,y,n,n,n,n,TARXIEN,"115,000"
+Tuesday,September,5,2017,n,n,n,n,n,ŻEBBIEGĦ,"600,000"
+Monday,September,4,2017,n,n,y,n,n,GOZO,"350,000"
+Monday,September,4,2017,y,n,n,n,n,SLIEMA,"310,000"
+Monday,September,4,2017,n,n,n,n,n,ŻEBBIEGĦ,"600,000"

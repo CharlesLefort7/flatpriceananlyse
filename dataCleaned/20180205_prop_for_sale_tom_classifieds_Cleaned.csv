@@ -1,0 +1,33 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Monday,February,5,2018,y,n,y,n,n,SLIEMA,"400,000"
+Saturday,February,3,2018,y,n,n,n,n,GOZO,"120,000"
+Saturday,February,3,2018,y,n,n,n,n,ST JULIANS,"295,000"
+Saturday,February,3,2018,n,n,n,n,n,ST JULIANS,NaN
+Saturday,February,3,2018,n,n,n,n,n,TA' XBIEX,NaN
+Saturday,February,3,2018,n,y,y,n,n,TAL-IBRAĠ,"495,000"
+Saturday,February,3,2018,n,n,n,n,n,ŻURRIEQ,"190,000"
+Friday,February,2,2018,y,n,n,n,n,GOZO,"125,000"
+Friday,February,2,2018,y,n,n,n,n,MARSASCALA,"179,000"
+Friday,February,2,2018,n,n,n,n,n,QAWRA,"348,000"
+Friday,February,2,2018,y,n,y,n,n,ST JULIANS,"300,000"
+Friday,February,2,2018,n,n,n,n,n,VALLETTA,NaN
+Thursday,February,1,2018,n,n,n,y,y,GOZO,"680,000"
+Thursday,February,1,2018,n,n,n,n,n,QORMI,"169,000"
+Wednesday,January,31,2018,y,n,n,n,n,ATTARD,"292,000"
+Wednesday,January,31,2018,n,n,n,n,n,GOZO,"220,000"
+Wednesday,January,31,2018,n,n,n,y,n,GOZO,"385,000"
+Wednesday,January,31,2018,y,n,n,n,n,GOZO,"125,000"
+Wednesday,January,31,2018,y,n,y,n,n,MARSASCALA,"179,000"
+Wednesday,January,31,2018,y,n,n,n,n,MSIDA,"130,000"
+Wednesday,January,31,2018,n,n,n,n,n,MSIDA,"155,000"
+Wednesday,January,31,2018,y,n,n,n,n,MSIDA,"130,000"
+Wednesday,January,31,2018,n,n,n,n,n,QAWRA,"348,000"
+Wednesday,January,31,2018,y,n,n,n,n,QAWRA,"117,000"
+Wednesday,January,31,2018,y,n,y,n,n,SLIEMA,"400,000"
+Wednesday,January,31,2018,n,n,n,n,n,ST JULIANS,NaN
+Tuesday,January,30,2018,y,n,n,n,n,ATTARD,NaN
+Tuesday,January,30,2018,n,n,y,y,y,GOZO,NaN
+Tuesday,January,30,2018,n,n,n,n,n,QORMI,NaN
+Monday,January,29,2018,n,n,n,n,n,GOZO,"250,000"
+Monday,January,29,2018,y,n,y,n,n,SLIEMA,"400,000"
+Monday,January,29,2018,n,n,n,n,n,ST JULIANS,NaN

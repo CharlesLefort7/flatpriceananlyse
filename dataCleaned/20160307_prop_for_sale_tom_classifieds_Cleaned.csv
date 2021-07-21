@@ -1,0 +1,63 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Friday,March,4,2016,n,n,n,n,n,GOZO,"72,000"
+Friday,March,4,2016,y,n,n,n,n,GOZO,"135,000"
+Friday,March,4,2016,n,n,n,n,n,GŻIRA,"79,500"
+Friday,March,4,2016,n,n,y,n,y,MELLIEĦA,"295,000"
+Friday,March,4,2016,n,n,y,n,n,MELLIEĦA,"330,000"
+Friday,March,4,2016,y,n,n,n,n,NAXXAR,NaN
+Friday,March,4,2016,y,n,y,n,n,SLIEMA,"650,000"
+Friday,March,4,2016,n,n,n,n,n,ST JULIANS,"165,000"
+Friday,March,4,2016,n,y,n,n,n,ST VENERA,NaN
+Thursday,March,3,2016,y,n,n,n,n,FGURA,NaN
+Thursday,March,3,2016,y,n,n,n,n,GOZO,"259,000"
+Thursday,March,3,2016,n,n,y,y,n,GOZO,"180,000"
+Thursday,March,3,2016,n,n,y,n,n,MADLIENA,"420,000"
+Thursday,March,3,2016,n,n,y,n,n,MADLIENA,"549,000"
+Thursday,March,3,2016,y,n,n,n,n,MARSASCALA,NaN
+Thursday,March,3,2016,n,n,n,n,n,MELLIEĦA,"155,000"
+Thursday,March,3,2016,y,n,y,n,n,SLIEMA,"625,000"
+Thursday,March,3,2016,n,n,n,n,n,SLIEMA,"700,000"
+Thursday,March,3,2016,n,n,n,n,n,ST JULIANS,"165,000"
+Thursday,March,3,2016,n,n,n,n,n,ST JULIANS,"470,000"
+Thursday,March,3,2016,n,n,y,n,y,ST VENERA,NaN
+Thursday,March,3,2016,y,n,n,n,n,ŻEJTUN,"135,000"
+Wednesday,March,2,2016,n,n,n,n,y,ATTARD,"1,350"
+Wednesday,March,2,2016,n,n,y,y,n,BAĦAR IĊ-ĊAGĦAQ,"645,000"
+Wednesday,March,2,2016,n,y,n,n,n,BAĦAR IĊ-ĊAGĦAQ,"215,000"
+Wednesday,March,2,2016,n,n,y,y,n,BIRGUMA,"690,000"
+Wednesday,March,2,2016,y,n,n,n,n,FLORIANA,NaN
+Wednesday,March,2,2016,y,n,n,n,n,GOZO,"85,000"
+Wednesday,March,2,2016,y,y,y,n,n,GOZO,NaN
+Wednesday,March,2,2016,y,n,n,n,n,GOZO,"69,000"
+Wednesday,March,2,2016,n,n,n,n,n,GŻIRA ,NaN
+Wednesday,March,2,2016,n,n,y,n,n,MADLIENA,"420,000"
+Wednesday,March,2,2016,y,n,y,n,n,MARSASCALA,"108,000"
+Wednesday,March,2,2016,y,n,n,n,n,MSIDA,"180,000"
+Wednesday,March,2,2016,n,y,y,n,n,MSIDA,"295,000"
+Wednesday,March,2,2016,n,n,n,n,y,NAXXAR,"1,100"
+Wednesday,March,2,2016,y,n,n,n,n,NAXXAR,NaN
+Wednesday,March,2,2016,y,n,n,n,n,PORTOMASO,"420,000"
+Wednesday,March,2,2016,n,n,n,n,n,RABAT,"175,000"
+Wednesday,March,2,2016,n,y,n,n,n,RABAT,"140,000"
+Wednesday,March,2,2016,n,n,n,n,n,SIĠĠIEWI,"175,000"
+Wednesday,March,2,2016,y,n,n,n,n,SLIEMA,"245,000"
+Wednesday,March,2,2016,y,n,y,n,n,SLIEMA,"625,000"
+Wednesday,March,2,2016,n,n,n,n,n,SLIEMA,"490,000"
+Wednesday,March,2,2016,n,n,n,n,n,SLIEMA,"660,000"
+Wednesday,March,2,2016,y,n,n,n,n,ST JULIANS,"230,000"
+Wednesday,March,2,2016,y,n,n,n,n,ST JULIANS,"385,000"
+Wednesday,March,2,2016,y,n,n,n,n,ST JULIANS,"196,000"
+Wednesday,March,2,2016,n,y,n,n,n,ST VENERA,NaN
+Wednesday,March,2,2016,n,n,n,n,n,SWIEQI,"245,000"
+Wednesday,March,2,2016,n,n,n,y,y,TA' XBIEX,"1,200"
+Wednesday,March,2,2016,n,n,n,n,n,VALLETTA,"680,000"
+Wednesday,March,2,2016,y,n,n,n,n,VALLETTA,"239,000"
+Wednesday,March,2,2016,n,n,n,n,n,VALLETTA,"300,000"
+Wednesday,March,2,2016,n,n,y,y,n,ŻEBBUĠ,"480,000"
+Tuesday,March,1,2016,n,n,n,n,n,BINĠEMMA AREA,"100,000"
+Tuesday,March,1,2016,y,n,n,n,n,FGURA,"119,000"
+Tuesday,March,1,2016,y,n,n,n,n,GOZO,"85,000"
+Tuesday,March,1,2016,y,n,y,n,n,GOZO,"235,000"
+Tuesday,March,1,2016,y,n,n,n,n,MARSASCALA,"110,000"
+Monday,February,29,2016,n,n,n,n,n,BINĠEMMA AREA,"100,000"
+Monday,February,29,2016,n,n,n,n,n,MELLIEĦA,"155,000"

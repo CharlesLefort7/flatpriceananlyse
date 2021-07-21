@@ -1,0 +1,35 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Monday,December,4,2017,y,n,n,n,n,GOZO,"110,000"
+Monday,December,4,2017,n,n,n,n,n,MELLIEHA,NaN
+Monday,December,4,2017,n,n,n,n,n,QAWRA,NaN
+Monday,December,4,2017,n,y,n,n,n,QAWRA,NaN
+Monday,December,4,2017,y,n,y,n,n,SLIEMA,NaN
+Monday,December,4,2017,y,n,n,n,n,SLIEMA,"270,000"
+Monday,December,4,2017,n,n,n,n,n,ST PAULS BAY,NaN
+Monday,December,4,2017,y,n,n,n,n,ST PAULS BAY,NaN
+Monday,December,4,2017,y,n,n,n,n,ST PAULS BAY,NaN
+Saturday,December,2,2017,n,n,n,y,n,GOZO,"375,000"
+Saturday,December,2,2017,n,n,n,n,n,GOZO,"125,000"
+Saturday,December,2,2017,y,n,n,n,n,NAXXAR,"248,000"
+Saturday,December,2,2017,y,n,n,n,n,SLIEMA,"395,000"
+Saturday,December,2,2017,n,n,n,n,n,TA' QALI,NaN
+Friday,December,1,2017,y,n,n,n,n, SAN PAWL TAT-TARĠA,"248,000"
+Friday,December,1,2017,n,n,y,n,n,ST JULIANS,NaN
+Friday,December,1,2017,n,n,n,n,n,TA' QALI,NaN
+Thursday,November,30,2017,n,n,n,n,n,GOZO,"186,500"
+Thursday,November,30,2017,n,n,n,n,n,ST JULIANS,"350,000"
+Thursday,November,30,2017,n,n,n,n,n,TA' QALI,NaN
+Wednesday,November,29,2017,y,n,y,n,n,BAĦAR IĊ-ĊAGĦAQ,"465,000"
+Wednesday,November,29,2017,y,n,n,n,n,BIRKIRKARA,"170,000"
+Wednesday,November,29,2017,y,n,y,n,n,GOZO,"150,000"
+Wednesday,November,29,2017,n,n,n,n,n,GOZO,"255,000"
+Wednesday,November,29,2017,y,n,n,n,n,ĦAMRUN,"140,000"
+Wednesday,November,29,2017,n,n,n,n,n,MSIDA,"139,000"
+Wednesday,November,29,2017,n,n,n,y,n,NAXXAR,"426,000"
+Wednesday,November,29,2017,y,n,n,n,n,SAN ĠWANN,"215,000"
+Wednesday,November,29,2017,n,n,n,n,n,SLIEMA,"155,000"
+Wednesday,November,29,2017,n,y,y,n,n,SWIEQI,"490,000"
+Wednesday,November,29,2017,n,n,n,n,n,TA' QALI,NaN
+Tuesday,November,28,2017,n,n,y,n,n,ST JULIANS,NaN
+Tuesday,November,28,2017,n,n,n,n,n,TA' QALI,NaN
+Monday,November,27,2017,n,n,n,n,n,TA' QALI,NaN

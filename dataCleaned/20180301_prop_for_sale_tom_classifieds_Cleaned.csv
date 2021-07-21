@@ -1,0 +1,605 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Thursday,March,1,2018,n,n,n,n,n,NAXXAR,"298,000"
+Thursday,March,1,2018,n,n,n,n,n,QORMI,NaN
+Thursday,March,1,2018,n,n,n,n,n,SLIEMA,"325,000"
+Thursday,March,1,2018,n,y,n,n,n,ST JULIANS,"210,000"
+Wednesday,February,28,2018,y,n,y,n,y,ŻEBBUĠA,NaN
+Wednesday,February,28,2018,n,n,n,n,y,GOZO,"198,000"
+Wednesday,February,28,2018,y,n,n,n,n,GŻIRA,"230,000"
+Wednesday,February,28,2018,n,y,n,n,n,MADLIENA,"495,000"
+Wednesday,February,28,2018,y,n,y,n,n,MARSASCALA,NaN
+Wednesday,February,28,2018,n,n,n,n,n,QAWRA,NaN
+Wednesday,February,28,2018,y,n,y,n,n,SLIEMA,"400,000"
+Wednesday,February,28,2018,n,y,n,n,n,SWIEQI,"340,000"
+Wednesday,February,28,2018,n,y,y,n,n,NaN,"490,000"
+Wednesday,February,28,2018,n,n,n,n,n,XEMXIJA,NaN
+Tuesday,February,27,2018,n,n,n,n,n,QORMI,NaN
+Monday,February,26,2018,y,n,y,n,n,SLIEMA,"400,000"
+Sunday,February,25,2018,n,y,n,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,n,y,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,February,25,2018,y,n,n,n,n,ATTARD,"240,000"
+Sunday,February,25,2018,n,n,y,n,y,ATTARD,"550,000"
+Sunday,February,25,2018,n,n,n,n,n,ATTARD,"770,000"
+Sunday,February,25,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,February,25,2018,y,n,n,n,n,ATTARD,"210,000"
+Sunday,February,25,2018,n,n,y,n,n,ATTARD,"525,000"
+Sunday,February,25,2018,n,y,y,n,n,ATTARD,"285,000"
+Sunday,February,25,2018,n,y,y,n,n,ATTARD,"345,000"
+Sunday,February,25,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,y,n,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,n,y,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,y,n,n,n,ATTARD,"460,000"
+Sunday,February,25,2018,n,n,n,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,n,y,n,y,ATTARD,"760,000"
+Sunday,February,25,2018,n,y,y,n,n,ATTARD,NaN
+Sunday,February,25,2018,n,n,y,n,n,ATTARD,"579,000"
+Sunday,February,25,2018,n,n,n,n,n,ATTARD,"308,000"
+Sunday,February,25,2018,n,y,n,n,n,BAĦAR IĊ-ĊAGĦAQ,NaN
+Sunday,February,25,2018,n,n,y,y,n,BAĦAR IĊ-ĊAGĦAQ,"600,000"
+Sunday,February,25,2018,y,n,n,n,n,BAĦAR IĊ-ĊAGHAQ,"295,000"
+Sunday,February,25,2018,y,n,n,n,n,BAĦAR IĊ-ĊAGĦAQ,"250,000"
+Sunday,February,25,2018,n,n,n,n,n,BAĦRIJA,NaN
+Sunday,February,25,2018,n,y,n,n,n,BALZAN,"315,000"
+Sunday,February,25,2018,n,n,n,n,n,BALZAN,"430,000"
+Sunday,February,25,2018,n,y,n,n,n,BALZAN,NaN
+Sunday,February,25,2018,n,n,y,y,n,BALZAN,NaN
+Sunday,February,25,2018,n,n,n,n,n,BALZAN,"225,000"
+Sunday,February,25,2018,n,n,n,n,n,BALZAN,"855,000"
+Sunday,February,25,2018,n,y,n,n,n,BALZAN,"350,000"
+Sunday,February,25,2018,n,n,n,n,y,BALZAN,"269,000"
+Sunday,February,25,2018,n,n,n,y,n,BIDNIJA,"1,275"
+Sunday,February,25,2018,n,n,n,y,n,BIDNIJA,"760,000"
+Sunday,February,25,2018,n,n,n,y,y,BIDNIJA,"760,000"
+Sunday,February,25,2018,n,n,n,y,n,BIDNIJA,"760,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA ,"150,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA,"205,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA,"325,000"
+Sunday,February,25,2018,y,n,n,n,n,BIRKIRKARA,"190,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA,"449,500"
+Sunday,February,25,2018,n,n,y,n,n,BIRKIRKARA,"250,000"
+Sunday,February,25,2018,n,n,n,y,y,BIRKIRKARA,"640,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA,NaN
+Sunday,February,25,2018,n,n,y,n,n,BIRKIRKARA,"319,000"
+Sunday,February,25,2018,y,n,n,n,n,BIRKIRKARA,NaN
+Sunday,February,25,2018,n,n,y,n,y,BIRKIRKARA,"860,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA,"250,000"
+Sunday,February,25,2018,n,n,n,n,n,BIRKIRKARA,"447,000"
+Sunday,February,25,2018,y,n,n,n,n,BIRKIRKARA,"192,000"
+Sunday,February,25,2018,n,n,n,n,y,BIRKIRKARA,"245,000"
+Sunday,February,25,2018,y,n,y,n,y,BIRŻEBBUĠA,"700,000"
+Sunday,February,25,2018,y,n,n,n,n,BIRŻEBBUĠA,"145,000"
+Sunday,February,25,2018,y,n,n,n,n,BIRŻEBBUĠA,"190,000"
+Sunday,February,25,2018,y,n,n,n,n,BIRŻEBBUĠA,"110,000"
+Sunday,February,25,2018,n,n,y,n,n,BIRŻEBBUĠA,"415,000"
+Sunday,February,25,2018,n,n,y,n,n,BIRŻEBBUĠA,"185,000"
+Sunday,February,25,2018,n,y,n,n,n,BIRŻEBBUĠA,NaN
+Sunday,February,25,2018,n,n,n,n,n,BUĠIBBA,"135,000"
+Sunday,February,25,2018,n,n,y,n,n,BUĠIBBA,"265,000"
+Sunday,February,25,2018,y,n,n,n,n,BUĠIBBA,NaN
+Sunday,February,25,2018,n,n,n,n,n,BURMARRAD,"240,000"
+Sunday,February,25,2018,n,n,n,n,n,COSPICUA ,"145,000"
+Sunday,February,25,2018,n,n,n,y,n,COSPICUA,NaN
+Sunday,February,25,2018,n,n,n,n,n,COSPICUA,"190,000"
+Sunday,February,25,2018,n,n,y,n,y,COSPICUA,"570,000"
+Sunday,February,25,2018,n,y,n,n,n,COSPICUA,"105,000"
+Sunday,February,25,2018,n,n,n,n,n,FAWWARA,"165,000"
+Sunday,February,25,2018,y,n,n,n,n,FGURA,NaN
+Sunday,February,25,2018,n,y,n,n,n,FGURA,"235,000"
+Sunday,February,25,2018,n,y,n,n,n,FGURA,NaN
+Sunday,February,25,2018,y,n,n,n,n,FGURA,"140,000"
+Sunday,February,25,2018,n,y,n,n,n,FGURA,"175,000"
+Sunday,February,25,2018,y,n,n,n,n,FGURA,"170,000"
+Sunday,February,25,2018,y,n,n,n,n,FGURA,"139,000"
+Sunday,February,25,2018,n,n,n,n,n,FGURA,"265,000"
+Sunday,February,25,2018,n,n,n,n,n,FGURA,"225,000"
+Sunday,February,25,2018,n,n,n,n,n,FGURA,"160,000"
+Sunday,February,25,2018,y,n,n,n,n,FGURA,NaN
+Sunday,February,25,2018,n,y,n,n,n,FGURA,"175,000"
+Sunday,February,25,2018,y,n,n,n,n,FGURA,NaN
+Sunday,February,25,2018,n,y,n,n,n,FGURA,"195,000"
+Sunday,February,25,2018,y,n,n,n,n,FLORIANA,"477,000"
+Sunday,February,25,2018,n,n,n,y,n,GĦARGĦUR,"499,000"
+Sunday,February,25,2018,n,y,n,n,y,GĦARGĦUR,"287,000"
+Sunday,February,25,2018,y,n,n,n,n,GĦARGĦUR,"320,000"
+Sunday,February,25,2018,n,n,n,n,n,GĦARGĦUR,"350,000"
+Sunday,February,25,2018,n,n,n,n,n,GĦAXAQ,"239,000"
+Sunday,February,25,2018,n,n,y,n,y,GĦAXAQ,"975,000"
+Sunday,February,25,2018,n,n,n,y,n,GĦAXAQ,"340,000"
+Sunday,February,25,2018,n,y,n,n,n,GĦAXAQ,"193,000"
+Sunday,February,25,2018,n,y,n,n,n,GOZO,"120,000"
+Sunday,February,25,2018,y,n,n,n,n,GOZO,"180,000"
+Sunday,February,25,2018,y,n,n,n,n,GOZO,"85,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,NaN
+Sunday,February,25,2018,n,n,n,n,n,GOZO,"230,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,"180,000"
+Sunday,February,25,2018,n,n,y,y,n,GOZO,"565,000"
+Sunday,February,25,2018,n,n,y,y,n,GOZO,"30,000"
+Sunday,February,25,2018,n,n,y,y,n,GOZO,"695,000"
+Sunday,February,25,2018,n,n,y,y,n,GOZO,"695,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,NaN
+Sunday,February,25,2018,y,n,n,n,n,GOZO,"289,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,"212,000"
+Sunday,February,25,2018,n,n,n,y,n,GOZO,"187,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,NaN
+Sunday,February,25,2018,y,n,n,n,n,GOZO,"230,000"
+Sunday,February,25,2018,n,n,n,y,n,GOZO,"289,000"
+Sunday,February,25,2018,y,n,n,n,n,GOZO,"64,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,"425,000"
+Sunday,February,25,2018,n,n,y,n,n,GOZO,"285,000"
+Sunday,February,25,2018,y,n,n,n,n,GOZO,"165,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,"245,000"
+Sunday,February,25,2018,n,n,y,y,n,GOZO,"250,000"
+Sunday,February,25,2018,n,n,y,n,n,GOZO,"135,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,"200,000"
+Sunday,February,25,2018,n,n,y,y,y,GOZO,"365,000"
+Sunday,February,25,2018,n,n,y,n,n,GOZO,"398,000"
+Sunday,February,25,2018,n,n,y,y,n,GOZO,NaN
+Sunday,February,25,2018,n,y,n,n,n,GOZO,"127,000"
+Sunday,February,25,2018,n,n,n,n,n,GOZO,NaN
+Sunday,February,25,2018,n,y,n,n,n,GUARDAMANGIA,"191,000"
+Sunday,February,25,2018,y,n,y,n,n,GUARDAMANGIA,NaN
+Sunday,February,25,2018,n,n,n,n,n,GUARDAMANGIA,"147,000"
+Sunday,February,25,2018,n,n,n,n,n,GUDJA,"260,000"
+Sunday,February,25,2018,n,n,n,y,n,GUDJA,"385,000"
+Sunday,February,25,2018,n,n,n,n,n,GUDJA,"385,000"
+Sunday,February,25,2018,n,n,n,n,n,GŻIRA,"300,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"765,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"240,000"
+Sunday,February,25,2018,n,n,y,n,n,GŻIRA,"260,000"
+Sunday,February,25,2018,n,n,n,n,n,GŻIRA,"315,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,NaN
+Sunday,February,25,2018,n,y,n,n,n,GŻIRA,"165,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"213,000"
+Sunday,February,25,2018,n,n,n,n,n,GŻIRA,NaN
+Sunday,February,25,2018,n,n,y,n,n,GŻIRA,"39,500"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"280,000"
+Sunday,February,25,2018,n,n,n,n,n,GŻIRA,NaN
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"225,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"225,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"170,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"235,000"
+Sunday,February,25,2018,n,n,n,n,n,GŻIRA,"235,000"
+Sunday,February,25,2018,y,n,n,n,n,GŻIRA,"575,000"
+Sunday,February,25,2018,n,n,n,n,n,GŻIRA,"245,000"
+Sunday,February,25,2018,n,n,y,n,n,GŻIRA,"275,000"
+Sunday,February,25,2018,n,n,n,n,n,ĦAMRUN,"240,000"
+Sunday,February,25,2018,y,n,n,n,n,ĦAMRUN,"165,000"
+Sunday,February,25,2018,n,n,y,n,n,ĦAMRUN,"290,000"
+Sunday,February,25,2018,y,y,n,n,n,ĦAMRUN,"155,000"
+Sunday,February,25,2018,y,n,n,n,n,ĦAMRUN,"155,000"
+Sunday,February,25,2018,y,n,n,n,n,ĦAMRUN,"130,000"
+Sunday,February,25,2018,n,n,n,n,n,ĦAMRUN,"135,000"
+Sunday,February,25,2018,n,n,n,n,n,ĦAMRUN,"290,000"
+Sunday,February,25,2018,n,n,n,n,n,ĦAMRUN,"181,000"
+Sunday,February,25,2018,n,n,n,n,n,ĦAMRUN,"165,000"
+Sunday,February,25,2018,y,n,n,n,n,IKLIN,"215,000"
+Sunday,February,25,2018,n,y,n,n,n,IKLIN,"265,000"
+Sunday,February,25,2018,n,y,n,y,n,IKLIN,NaN
+Sunday,February,25,2018,n,n,n,n,n,KALKARA,"550,000"
+Sunday,February,25,2018,n,n,y,y,y,KALKARA,NaN
+Sunday,February,25,2018,n,n,n,n,y,KALKARA,"675,000"
+Sunday,February,25,2018,y,n,y,n,n,KALKARA,"199,000"
+Sunday,February,25,2018,n,y,n,n,n,KALKARA,"170,000"
+Sunday,February,25,2018,y,n,n,y,n,KALKARA,"250,000"
+Sunday,February,25,2018,n,n,n,n,y,KALKARA,"675,000"
+Sunday,February,25,2018,n,n,y,n,y,KAPPARA,NaN
+Sunday,February,25,2018,n,n,n,y,n,KAPPARA,NaN
+Sunday,February,25,2018,n,n,n,n,n,KAPPARA,NaN
+Sunday,February,25,2018,n,n,n,y,n,KAPPARA,"1,450"
+Sunday,February,25,2018,n,n,n,y,y,KAPPARA,"1,150"
+Sunday,February,25,2018,n,n,n,y,n,KIRKOP,"638,000"
+Sunday,February,25,2018,n,n,n,n,n,LAND FOR SALE,NaN
+Sunday,February,25,2018,n,y,n,n,n,LIJA,"345,000"
+Sunday,February,25,2018,n,n,y,n,y,LIJA,"950,000"
+Sunday,February,25,2018,n,n,n,n,y,LIJA,"1,200"
+Sunday,February,25,2018,n,y,n,n,n,LIJA,"355,000"
+Sunday,February,25,2018,y,n,n,n,n,LUQA,"178,000"
+Sunday,February,25,2018,n,y,n,n,n,LUQA,"340,000"
+Sunday,February,25,2018,n,y,n,n,n,MADLIENA,"495,000"
+Sunday,February,25,2018,y,n,y,n,n,MADLIENA,"450,000"
+Sunday,February,25,2018,n,n,y,n,n,MADLIENA,"550,000"
+Sunday,February,25,2018,n,n,n,n,n,MADLIENA,"850,000"
+Sunday,February,25,2018,n,n,y,y,n,MADLIENA,"950,000"
+Sunday,February,25,2018,n,y,y,n,n,MADLIENA,"415,000"
+Sunday,February,25,2018,n,y,y,n,n,MADLIENA,"465,000"
+Sunday,February,25,2018,n,n,y,y,y,MADLIENA,"1,590"
+Sunday,February,25,2018,y,n,n,n,n,MADLIENA,NaN
+Sunday,February,25,2018,y,n,n,n,n,MANIKATA,"275,000"
+Sunday,February,25,2018,y,n,n,n,n,MARSA,"170,000"
+Sunday,February,25,2018,n,n,n,n,n,MARSASCALA,"650,000"
+Sunday,February,25,2018,n,n,y,n,n,MARSASCALA,"550,000"
+Sunday,February,25,2018,y,n,y,n,n,MARSASCALA,"248,000"
+Sunday,February,25,2018,y,y,n,n,n,MARSASCALA,NaN
+Sunday,February,25,2018,y,n,n,n,n,MARSASCALA,"330,000"
+Sunday,February,25,2018,y,n,y,n,n,MARSASCALA,NaN
+Sunday,February,25,2018,n,n,y,n,n,MARSASCALA,NaN
+Sunday,February,25,2018,y,n,n,n,n,MARSASCALA,"260,000"
+Sunday,February,25,2018,n,y,n,n,n,MARSASCALA,"335,000"
+Sunday,February,25,2018,y,n,y,n,n,MARSASCALA,NaN
+Sunday,February,25,2018,n,n,n,n,n,MARSASCALA,"53,000"
+Sunday,February,25,2018,y,n,y,n,n,MARSASCALA,"158,000"
+Sunday,February,25,2018,n,n,n,n,n,MARSASCALA,"750,000"
+Sunday,February,25,2018,n,n,n,n,n,MARSASCALA,"298,000"
+Sunday,February,25,2018,n,y,n,n,n,MARSASCALA,"250,000"
+Sunday,February,25,2018,n,n,y,n,n,MARSASCALA,"130,000"
+Sunday,February,25,2018,y,n,n,n,n,MARSASCALA,"189,000"
+Sunday,February,25,2018,y,n,n,n,n,MARSASCALA,"245,000"
+Sunday,February,25,2018,n,y,n,n,n,MARSASCALA,"218,000"
+Sunday,February,25,2018,n,y,n,n,n,MARSASCALA,"218,000"
+Sunday,February,25,2018,n,n,n,y,n,MARSASCALA,"650,000"
+Sunday,February,25,2018,n,n,n,n,n,MARSAXLOKK,"372,500"
+Sunday,February,25,2018,y,n,n,n,n,MARSAXLOKK,"228,500"
+Sunday,February,25,2018,n,y,n,n,n,MARSAXLOKK,"215,000"
+Sunday,February,25,2018,n,n,y,n,n,MARSAXLOKK,NaN
+Sunday,February,25,2018,n,n,n,y,n,MELLIEĦA,"1,010"
+Sunday,February,25,2018,n,n,y,y,n,MELLIEĦA,"1,000"
+Sunday,February,25,2018,n,n,y,y,y,MELLIEĦA,"1,742"
+Sunday,February,25,2018,n,n,n,n,n,MELLIEĦA,"375,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,"410,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,"212,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,"320,000"
+Sunday,February,25,2018,n,n,n,y,y,MELLIEĦA,"1,900"
+Sunday,February,25,2018,n,y,y,n,n,MELLIEĦA,"305,000"
+Sunday,February,25,2018,n,n,y,n,n,MELLIEĦA,"475,000"
+Sunday,February,25,2018,n,n,y,y,n,MELLIEĦA,NaN
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,"680,000"
+Sunday,February,25,2018,n,y,y,n,n,MELLIEĦA,"275,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,NaN
+Sunday,February,25,2018,n,n,y,n,n,MELLIEĦA,"530,000"
+Sunday,February,25,2018,n,y,y,n,n,MELLIEĦA,"275,000"
+Sunday,February,25,2018,n,n,y,n,y,MELLIEĦA,"496,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,"265,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,"290,000"
+Sunday,February,25,2018,n,y,y,n,n,MELLIEĦA,"318,000"
+Sunday,February,25,2018,y,n,n,n,n,MELLIEĦA,NaN
+Sunday,February,25,2018,n,n,y,n,n,MENSIJA,"675,000"
+Sunday,February,25,2018,n,n,n,y,n,MENSIJA,NaN
+Sunday,February,25,2018,n,n,n,n,y,MENSIJA,"800,000"
+Sunday,February,25,2018,n,n,y,n,n,MĠARR,"590,000"
+Sunday,February,25,2018,n,y,y,n,n,MĠARR,"415,000"
+Sunday,February,25,2018,n,n,n,n,y,MONTROSA GARDENS,"780,000"
+Sunday,February,25,2018,n,y,n,n,n,MOSTA,NaN
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"245,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"700,000"
+Sunday,February,25,2018,y,n,n,n,n,MOSTA,"175,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"185,000"
+Sunday,February,25,2018,n,n,y,n,n,MOSTA,"245,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"220,000"
+Sunday,February,25,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,February,25,2018,n,n,y,n,n,MOSTA,NaN
+Sunday,February,25,2018,n,y,y,n,n,MOSTA,"310,000"
+Sunday,February,25,2018,y,n,y,n,n,MOSTA,"245,000"
+Sunday,February,25,2018,y,n,y,n,n,MOSTA,"245,000"
+Sunday,February,25,2018,y,n,y,n,n,MOSTA,"280,000"
+Sunday,February,25,2018,n,n,y,y,y,MOSTA,NaN
+Sunday,February,25,2018,n,n,y,y,y,MOSTA,"975,000"
+Sunday,February,25,2018,y,n,n,n,n,MOSTA,"240,000"
+Sunday,February,25,2018,n,n,n,n,y,MOSTA,"343,000"
+Sunday,February,25,2018,n,n,n,y,n,MOSTA,"575,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"195,000"
+Sunday,February,25,2018,n,y,n,n,n,MOSTA,"270,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"625,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"270,000"
+Sunday,February,25,2018,n,n,n,n,y,MOSTA,"343,000"
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"343,000"
+Sunday,February,25,2018,y,n,n,n,n,MOSTA,"180,000"
+Sunday,February,25,2018,y,n,n,n,n,MOSTA,NaN
+Sunday,February,25,2018,n,n,n,n,n,MOSTA,"330,000"
+Sunday,February,25,2018,n,n,n,n,n,MQABBA,"135,000"
+Sunday,February,25,2018,y,n,n,n,n,MRIEĦEL,"245,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"176,000"
+Sunday,February,25,2018,n,n,n,n,n,MSIDA,"140,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"169,600"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"190,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"175,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"155,000"
+Sunday,February,25,2018,n,y,n,n,n,MSIDA,"176,000"
+Sunday,February,25,2018,n,n,n,n,n,MSIDA,"190,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,NaN
+Sunday,February,25,2018,n,n,n,n,n,MSIDA,"250,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"139,000"
+Sunday,February,25,2018,n,n,n,n,n,MSIDA,"149,500"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"170,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"190,000"
+Sunday,February,25,2018,y,n,n,n,n,MSIDA,"165,000"
+Sunday,February,25,2018,n,n,y,n,n,NAXXAR,"490,000"
+Sunday,February,25,2018,n,n,n,n,n,NAXXAR,"375,000"
+Sunday,February,25,2018,n,n,n,n,n,NAXXAR,"210,000"
+Sunday,February,25,2018,n,n,y,n,n,NAXXAR,"520,000"
+Sunday,February,25,2018,n,n,n,n,n,NAXXAR,"370,000"
+Sunday,February,25,2018,n,n,y,n,y,NAXXAR,"498,500"
+Sunday,February,25,2018,n,n,n,n,n,NAXXAR,"499,000"
+Sunday,February,25,2018,n,n,y,y,n,NAXXAR,NaN
+Sunday,February,25,2018,n,n,y,n,n,NAXXAR,"530,000"
+Sunday,February,25,2018,n,n,n,n,n,NAXXAR,"375,000"
+Sunday,February,25,2018,n,n,n,n,n,NAXXAR,"395,000"
+Sunday,February,25,2018,n,y,y,n,n, BIRGUMA,NaN
+Sunday,February,25,2018,y,n,n,n,n,PACEVILLE,"260,000"
+Sunday,February,25,2018,y,n,y,n,n,PAOLA,NaN
+Sunday,February,25,2018,y,n,n,n,n,PAOLA,"182,800"
+Sunday,February,25,2018,n,n,n,n,n,PAOLA,"169,000"
+Sunday,February,25,2018,n,n,n,n,n,PAOLA,"169,000"
+Sunday,February,25,2018,n,n,y,n,n,PAOLA,"170,000"
+Sunday,February,25,2018,n,n,n,n,n,PAOLA,"145,000"
+Sunday,February,25,2018,n,n,y,n,n,PAOLA,"235,000"
+Sunday,February,25,2018,n,n,y,n,n,PEMBROKE,"1,180"
+Sunday,February,25,2018,n,n,y,y,n,PEMBROKE,"810,000"
+Sunday,February,25,2018,y,n,n,n,n,PIETÀ,NaN
+Sunday,February,25,2018,n,n,n,n,n,PIETÀ,"125,000"
+Sunday,February,25,2018,y,n,n,n,n,PIETÀ,"200,000"
+Sunday,February,25,2018,y,n,y,n,n,PIETÀ,"215,000"
+Sunday,February,25,2018,n,n,n,n,n,PIETÀ,"130,000"
+Sunday,February,25,2018,y,n,y,n,n,PIETÀ,"200,000"
+Sunday,February,25,2018,n,n,n,n,n,PIETÀ,NaN
+Sunday,February,25,2018,n,n,n,n,n,PIETÀ,"285,000"
+Sunday,February,25,2018,y,n,n,n,n,QAJJENZA,"228,000"
+Sunday,February,25,2018,n,n,n,n,n,QAWRA,"116,000"
+Sunday,February,25,2018,y,n,n,n,n,QAWRA,"165,000"
+Sunday,February,25,2018,n,n,n,n,n,QAWRA,NaN
+Sunday,February,25,2018,y,n,n,y,n,QAWRA,"150,000"
+Sunday,February,25,2018,y,n,n,n,n,QAWRA,"199,000"
+Sunday,February,25,2018,y,n,n,n,n,QAWRA,"190,000"
+Sunday,February,25,2018,n,n,n,n,n,QAWRA,"348,000"
+Sunday,February,25,2018,y,n,n,n,n,QAWRA,NaN
+Sunday,February,25,2018,n,n,y,n,n,QAWRA,"450,000"
+Sunday,February,25,2018,y,n,n,n,n,QAWRA,"135,000"
+Sunday,February,25,2018,n,n,n,n,n,QORMI,"177,000"
+Sunday,February,25,2018,n,y,n,n,n,QORMI,"281,500"
+Sunday,February,25,2018,n,n,n,n,n,QORMI,"2,000"
+Sunday,February,25,2018,y,n,n,n,n,QORMI,NaN
+Sunday,February,25,2018,n,y,n,n,n,QORMI,"235,000"
+Sunday,February,25,2018,n,n,n,n,n,RABAT,NaN
+Sunday,February,25,2018,n,n,n,n,n,RABAT,NaN
+Sunday,February,25,2018,n,n,n,n,n,RABAT,"75,000"
+Sunday,February,25,2018,n,n,n,n,n,RABAT,"480,000"
+Sunday,February,25,2018,y,n,n,n,n,RABAT,"320,000"
+Sunday,February,25,2018,n,n,y,y,y,RABAT,"1,050"
+Sunday,February,25,2018,n,y,n,n,n,RABAT,"350,000"
+Sunday,February,25,2018,n,n,n,n,y,RABAT,"1,275"
+Sunday,February,25,2018,n,y,n,n,n,SALINA,"212,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"600,000"
+Sunday,February,25,2018,n,n,n,n,n,SAN ĠWANN,"270,000"
+Sunday,February,25,2018,n,n,n,n,n,SAN ĠWANN,"215,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"210,000"
+Sunday,February,25,2018,n,n,n,n,n,SAN ĠWANN,"600,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"145,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"163,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"235,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"165,000"
+Sunday,February,25,2018,n,y,n,n,y,SAN ĠWANN,"470,000"
+Sunday,February,25,2018,n,n,y,y,y,SAN ĠWANN,"740,000"
+Sunday,February,25,2018,n,n,y,n,n,SAN ĠWANN,NaN
+Sunday,February,25,2018,y,n,n,n,n,SAN ĠWANN,"210,000"
+Sunday,February,25,2018,n,y,n,n,n,SAN ĠWANN,"240,000"
+Sunday,February,25,2018,y,n,n,n,n,SAN PAWL TAT-TARĠA,"450,000"
+Sunday,February,25,2018,n,n,n,y,n,SAN PAWL TAT-TARĠA,"1,680"
+Sunday,February,25,2018,n,n,n,y,y,SAN PAWL TAT-TARĠA,NaN
+Sunday,February,25,2018,n,n,y,y,y,SAN PAWL TAT-TARĠA,"1,200"
+Sunday,February,25,2018,n,n,y,y,y,SAN PAWL TAT-TARĠA,NaN
+Sunday,February,25,2018,n,n,y,y,y,SAN PAWL TAT-TARĠA,NaN
+Sunday,February,25,2018,n,n,n,n,n,SANTA LUĊIJA,"225,000"
+Sunday,February,25,2018,n,n,n,n,n,SENGLEA ,"150,000"
+Sunday,February,25,2018,n,y,y,n,n,SIĠĠIEWI,NaN
+Sunday,February,25,2018,n,y,n,n,n,SIĠĠIEWI,NaN
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA ,NaN
+Sunday,February,25,2018,n,y,n,n,n,SLIEMA ,NaN
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA ,"825,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA ,"170,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"260,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"300,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"505,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"279,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"697,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"860,000"
+Sunday,February,25,2018,n,n,n,y,n,SLIEMA,"750,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"620,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"1,200"
+Sunday,February,25,2018,y,n,y,n,n,SLIEMA,"575,000"
+Sunday,February,25,2018,n,n,y,n,n,SLIEMA,NaN
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"350,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,NaN
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"715,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,February,25,2018,n,n,y,n,n,SLIEMA,"570,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"320,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"345,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"359,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"825,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"330,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"950,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"550,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"595,000"
+Sunday,February,25,2018,n,n,y,n,n,SLIEMA,"125,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,"825,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"595,000"
+Sunday,February,25,2018,n,n,n,n,n,SLIEMA,"595,000"
+Sunday,February,25,2018,y,n,n,n,n,SLIEMA,NaN
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,"315,000"
+Sunday,February,25,2018,y,n,y,n,n,ST JULIANS,NaN
+Sunday,February,25,2018,y,n,n,n,y,ST JULIANS,"550,000"
+Sunday,February,25,2018,n,n,y,n,n,ST JULIANS,"120,000"
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,NaN
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,"290,000"
+Sunday,February,25,2018,n,n,y,n,n,ST JULIANS,"2,000"
+Sunday,February,25,2018,n,n,n,n,n,ST JULIANS,"280,000"
+Sunday,February,25,2018,n,n,n,n,n,ST JULIANS,"840,000"
+Sunday,February,25,2018,y,n,y,n,n,ST JULIANS,"339,000"
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,"375,000"
+Sunday,February,25,2018,y,n,y,n,n,ST JULIANS,"300,000"
+Sunday,February,25,2018,n,y,n,n,n,ST JULIANS,"135,000"
+Sunday,February,25,2018,n,n,n,y,n,ST JULIANS,NaN
+Sunday,February,25,2018,n,n,y,y,n,ST JULIANS,"775,000"
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,NaN
+Sunday,February,25,2018,y,n,y,n,n,ST JULIANS,"345,000"
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,"280,000"
+Sunday,February,25,2018,y,n,n,n,n,ST JULIANS,"235,000"
+Sunday,February,25,2018,n,n,y,n,n,ST PAUL' S BAY,"720,000"
+Sunday,February,25,2018,y,n,n,n,n,ST PAUL' S BAY,"152,000"
+Sunday,February,25,2018,n,n,n,n,n,ST PAUL' S BAY,"195,000"
+Sunday,February,25,2018,y,n,n,n,n,ST PAUL' S BAY,"180,000"
+Sunday,February,25,2018,n,n,n,n,n,ST PAUL' S BAY,"199,000"
+Sunday,February,25,2018,y,n,n,n,n,ST PAUL' S BAY,"149,000"
+Sunday,February,25,2018,n,n,n,n,n,ST PAUL' S BAY,"260,000"
+Sunday,February,25,2018,y,n,n,n,n,ST PAUL' S BAY,"195,000"
+Sunday,February,25,2018,y,n,y,n,n,ST PAUL' S BAY,"220,000"
+Sunday,February,25,2018,y,n,n,n,n,ST PAUL' S BAY,"149,000"
+Sunday,February,25,2018,y,n,n,n,n,ST PAUL' S,NaN
+Sunday,February,25,2018,n,n,n,n,n,ST VENERA,"175,000"
+Sunday,February,25,2018,y,n,n,n,n,ST VENERA,"197,000"
+Sunday,February,25,2018,y,n,n,n,n,ST VENERA,"160,000"
+Sunday,February,25,2018,y,n,n,n,n,ST VENERA,NaN
+Sunday,February,25,2018,y,n,n,n,n,ST VENERA,"115,000"
+Sunday,February,25,2018,n,n,n,n,n,ST VENERA,"350,000"
+Sunday,February,25,2018,y,n,n,n,n,ST VENERA,"175,000"
+Sunday,February,25,2018,n,n,n,n,n,ST VENERA,"225,000"
+Sunday,February,25,2018,n,n,n,n,y,ST VENERA,"279,500"
+Sunday,February,25,2018,n,n,n,n,n,ST VENERA,"150,000"
+Sunday,February,25,2018,n,n,n,n,n,SWATAR,"165,000"
+Sunday,February,25,2018,n,y,n,n,n,SWATAR,"285,000"
+Sunday,February,25,2018,n,n,y,n,n,SWATAR,"268,000"
+Sunday,February,25,2018,y,n,n,n,n,SWATAR,"230,000"
+Sunday,February,25,2018,y,n,n,n,n,SWATAR,NaN
+Sunday,February,25,2018,n,y,y,n,n,SWATAR,"245,000"
+Sunday,February,25,2018,y,n,n,n,n,SWATAR,"280,000"
+Sunday,February,25,2018,n,y,n,n,n,SWIEQI,"450,000"
+Sunday,February,25,2018,n,y,y,n,n,SWIEQI,"385,000"
+Sunday,February,25,2018,n,n,y,n,n,SWIEQI,NaN
+Sunday,February,25,2018,y,n,n,n,n,SWIEQI,"310,000"
+Sunday,February,25,2018,n,n,n,n,n,SWIEQI,NaN
+Sunday,February,25,2018,n,y,n,n,n,SWIEQI,"370,000"
+Sunday,February,25,2018,y,n,n,n,n,SWIEQI,NaN
+Sunday,February,25,2018,n,n,y,n,n,SWIEQI,"24,000"
+Sunday,February,25,2018,n,n,y,n,n,SWIEQI,NaN
+Sunday,February,25,2018,n,n,n,n,n,SWIEQI,"250,000"
+Sunday,February,25,2018,y,n,n,n,n,SWIEQI,"270,000"
+Sunday,February,25,2018,y,y,n,n,n,SWIEQI,"250,000"
+Sunday,February,25,2018,n,n,y,n,n,SWIEQI,"30,000"
+Sunday,February,25,2018,n,n,n,n,y,SWIEQI,"585,000"
+Sunday,February,25,2018,n,y,y,n,n,SWIEQI,NaN
+Sunday,February,25,2018,n,n,n,n,n,TA' XBIEX,"225,000"
+Sunday,February,25,2018,n,n,y,n,n,TA' XBIEX,"980,000"
+Sunday,February,25,2018,y,n,n,n,n,TA' XBIEX,NaN
+Sunday,February,25,2018,n,n,n,n,n,TAL-IBRAĠ,"280,000"
+Sunday,February,25,2018,y,n,y,n,n,TAL-IBRAĠ,"280,000"
+Sunday,February,25,2018,y,n,y,n,n,TAL-IBRAĠ,"645,000"
+Sunday,February,25,2018,y,n,y,n,n,TAL-IBRAĠ,"395,000"
+Sunday,February,25,2018,y,n,y,n,n,TAL-IBRAĠ,"390,000"
+Sunday,February,25,2018,y,n,n,n,n,TAL-IBRAĠ,"325,000"
+Sunday,February,25,2018,y,n,n,n,n,TAL-IBRAĠ,NaN
+Sunday,February,25,2018,y,n,n,n,n,TAL-IBRAĠ,"275,000"
+Sunday,February,25,2018,n,n,y,n,n,TARXIEN,"385,000"
+Sunday,February,25,2018,n,n,n,n,n,TARXIEN,"320,000"
+Sunday,February,25,2018,n,n,n,n,n,TARXIEN,"115,000"
+Sunday,February,25,2018,n,n,n,y,n,TARXIEN,"500,000"
+Sunday,February,25,2018,n,n,n,n,n,TARXIEN,"234,000"
+Sunday,February,25,2018,n,n,n,n,n,TARXIEN,"300,000"
+Sunday,February,25,2018,n,n,n,n,n,TARXIEN,"320,000"
+Sunday,February,25,2018,n,n,n,n,n,VALLETTA,"547,000"
+Sunday,February,25,2018,n,n,n,n,n,VALLETTA,"795,000"
+Sunday,February,25,2018,n,y,n,n,n,VALLETTA,"236,000"
+Sunday,February,25,2018,y,n,n,n,n,VALLETTA,NaN
+Sunday,February,25,2018,n,y,n,n,n,VALLETTA,NaN
+Sunday,February,25,2018,n,n,n,n,n,VALLETTA,"1,800"
+Sunday,February,25,2018,n,y,n,n,n,VALLETTA,"237,000"
+Sunday,February,25,2018,n,n,n,n,n,VALLETTA,"190,000"
+Sunday,February,25,2018,y,n,n,n,n,VALLETTA,NaN
+Sunday,February,25,2018,n,n,n,n,n,VITTORIOSA,"454,000"
+Sunday,February,25,2018,n,n,n,n,n,VITTORIOSA,"185,000"
+Sunday,February,25,2018,n,n,n,n,n,VITTORIOSA,"498,000"
+Sunday,February,25,2018,y,n,y,n,n,XEMXIJA,NaN
+Sunday,February,25,2018,n,n,n,n,n,XEMXIJA,NaN
+Sunday,February,25,2018,y,n,y,n,n,XEMXIJA,"375,000"
+Sunday,February,25,2018,y,n,n,n,n,XEMXIJA,"265,000"
+Sunday,February,25,2018,y,n,n,n,n,XEMXIJA,NaN
+Sunday,February,25,2018,y,n,n,n,n,XGĦAJRA,"177,000"
+Sunday,February,25,2018,n,n,n,n,n,XGĦAJRA,"177,000"
+Sunday,February,25,2018,y,n,n,n,n,XGĦAJRA,"230,000"
+Sunday,February,25,2018,n,n,n,n,n,XGĦAJRA,"132,500"
+Sunday,February,25,2018,y,n,y,n,n,XGĦAJRA,"425,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻABBAR,"239,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻABBAR,"120,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻABBAR,"383,000"
+Sunday,February,25,2018,n,n,y,n,n,ŻABBAR,"195,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻABBAR,"145,000"
+Sunday,February,25,2018,n,n,y,y,y,ŻABBAR,"395,000"
+Sunday,February,25,2018,n,n,y,n,y,ŻABBAR,"360,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻABBAR,"240,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻABBAR,"205,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻABBAR,"175,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻABBAR,"230,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻABBAR,NaN
+Sunday,February,25,2018,n,n,y,n,n,ŻABBAR,"380,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻABBAR,NaN
+Sunday,February,25,2018,n,n,y,n,y,ŻABBAR,"450,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻABBAR,NaN
+Sunday,February,25,2018,n,n,n,n,n,ŻABBAR,"159,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻABBAR,"116,900"
+Sunday,February,25,2018,n,n,y,y,n,ŻEBBUĠ,"250,000"
+Sunday,February,25,2018,n,n,n,n,y,ŻEBBUĠ,"650,000"
+Sunday,February,25,2018,y,y,n,n,n,ŻEBBUĠ,"163,200"
+Sunday,February,25,2018,n,n,n,n,n,ŻEBBUĠ,"360,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,February,25,2018,n,n,y,n,n,ŻEBBUĠ,"475,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻEBBUĠ,"191,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEBBUĠ,NaN
+Sunday,February,25,2018,n,y,y,n,n,ŻEBBUĠ,"275,000"
+Sunday,February,25,2018,n,n,y,n,n,ŻEBBUĠ,"535,000"
+Sunday,February,25,2018,n,n,n,n,y,ŻEBBUĠ,"780,000"
+Sunday,February,25,2018,n,n,n,n,y,ŻEJTUN,"785,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"375,000"
+Sunday,February,25,2018,n,n,n,n,y,ŻEJTUN,"495,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"425,200"
+Sunday,February,25,2018,n,y,y,n,n,ŻEJTUN,"240,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"260,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,NaN
+Sunday,February,25,2018,n,n,y,y,n,ŻEJTUN,"320,000"
+Sunday,February,25,2018,n,y,y,n,n,ŻEJTUN,"255,000"
+Sunday,February,25,2018,n,n,y,n,y,ŻEJTUN,"435,000"
+Sunday,February,25,2018,n,y,y,n,n,ŻEJTUN,"175,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻEJTUN,"345,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"245,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"199,000"
+Sunday,February,25,2018,n,n,n,n,y,ŻEJTUN,"290,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"450,000"
+Sunday,February,25,2018,n,n,n,y,y,ŻEJTUN,"895,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻEJTUN,"199,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻURRIEQ,"240,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻURRIEQ,"365,000"
+Sunday,February,25,2018,n,n,n,n,y,ŻURRIEQ,"365,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻURRIEQ,NaN
+Sunday,February,25,2018,n,n,n,n,n,ŻURRIEQ,"249,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻURRIEQ,"175,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻURRIEQ,"90,000"
+Sunday,February,25,2018,n,n,y,n,n,ŻURRIEQ,"382,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻURRIEQ,"135,000"
+Sunday,February,25,2018,n,y,n,n,n,ŻURRIEQ,"185,000"
+Sunday,February,25,2018,y,n,n,n,n,ŻURRIEQ,"175,000"
+Sunday,February,25,2018,n,n,n,n,n,ŻURRIEQ,"365,000"
+Sunday,February,25,2018,n,y,y,n,n,ŻURRIEQ,"170,000"
+Saturday,February,24,2018,y,n,n,n,n,ATTARD,"240,000"
+Saturday,February,24,2018,n,n,n,y,n,GOZO,"575,000"
+Saturday,February,24,2018,n,n,n,n,y,RABAT,"478,000"
+Saturday,February,24,2018,y,n,n,n,n,SLIEMA,"990,000"
+Saturday,February,24,2018,y,n,y,n,n,SLIEMA,"400,000"
+Saturday,February,24,2018,y,n,n,n,n,ST JULIANS,"249,000"
+Saturday,February,24,2018,y,n,n,n,n,SWIEQI,"350,000"
+Saturday,February,24,2018,n,n,n,n,n,VALLETTA,NaN
+Friday,February,23,2018,n,n,n,y,n,ATTARD,"550,000"
+Friday,February,23,2018,y,n,n,n,n,ATTARD,NaN
+Friday,February,23,2018,n,y,n,n,n,BALZAN,NaN
+Friday,February,23,2018,y,n,n,n,n,GOZO,"110,000"
+Friday,February,23,2018,y,n,y,n,n,MARSASCALA,NaN
+Friday,February,23,2018,n,n,n,n,n,QAWRA,NaN
+Friday,February,23,2018,y,n,y,n,n,SLIEMA,"645,000"
+Friday,February,23,2018,n,y,n,n,n,SWIEQI,NaN
+Thursday,February,22,2018,y,y,n,n,n,FLORIANA,"950,000"
+Thursday,February,22,2018,y,n,y,n,n,GOZO,"295,000"
+Thursday,February,22,2018,n,n,n,n,n,NAXXAR,"298,000"
+Thursday,February,22,2018,n,n,n,n,n,QORMI,NaN
+Thursday,February,22,2018,y,n,y,n,n,TAL-IBRAĠ,"325,000"
+Thursday,February,22,2018,n,n,n,n,y,ŻEBBUG,"650,000"

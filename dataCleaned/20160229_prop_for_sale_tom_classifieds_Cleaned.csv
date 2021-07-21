@@ -1,0 +1,81 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Thursday,February,25,2016,y,n,n,n,n,FGURA,NaN
+Thursday,February,25,2016,n,y,n,n,n,HAMRUN,"139,000"
+Thursday,February,25,2016,y,n,n,n,n,MARSASCALA,NaN
+Thursday,February,25,2016,n,n,y,n,n,SIĠĠIEWI,"285,000"
+Thursday,February,25,2016,n,n,y,n,n,ST JULIANS,"310,000"
+Thursday,February,25,2016,y,n,n,n,n,ST JULIANS,"165,000"
+Wednesday,February,24,2016,n,n,y,n,n,ATTARD,"165,000"
+Wednesday,February,24,2016,n,n,y,y,n,BAHAR IĊ-ĊAGĦAQ,"645,000"
+Wednesday,February,24,2016,n,n,y,n,n,BIRKIRKARA,"219,000"
+Wednesday,February,24,2016,y,n,n,n,n,FLORIANA,NaN
+Wednesday,February,24,2016,y,n,n,n,n,FORT CAMBRIDGE,"320,000"
+Wednesday,February,24,2016,n,n,n,n,n,FORT CAMBRIDGE,NaN
+Wednesday,February,24,2016,n,y,n,n,n,GĦAXAQ,"130,000"
+Wednesday,February,24,2016,n,n,n,n,n,GOZO,"165,000"
+Wednesday,February,24,2016,y,y,y,n,n,GOZO,NaN
+Wednesday,February,24,2016,n,n,n,n,n,GOZO,"260,000"
+Wednesday,February,24,2016,n,n,y,n,n,GUARDAMANGIA,"125,000"
+Wednesday,February,24,2016,y,n,n,n,n,GŻIRA,"207,500"
+Wednesday,February,24,2016,y,n,n,n,n,IKLIN,"165,000"
+Wednesday,February,24,2016,n,n,y,y,n,KAPPARA,NaN
+Wednesday,February,24,2016,n,n,y,y,n,MANIKATA,"635,000"
+Wednesday,February,24,2016,n,y,y,n,n,MARSASCALA,"155,000"
+Wednesday,February,24,2016,n,y,y,n,n,MARSASCALA,"158,000"
+Wednesday,February,24,2016,y,n,y,n,n,MARSASCALA,"108,000"
+Wednesday,February,24,2016,n,y,y,n,n,MARSASCALA,"195,000"
+Wednesday,February,24,2016,y,n,y,n,n,MELLIEĦA,"275,000"
+Wednesday,February,24,2016,n,n,y,n,y,MELLIEĦA,"295,000"
+Wednesday,February,24,2016,n,n,y,n,n,MELLIEĦA,"425,000"
+Wednesday,February,24,2016,n,n,y,n,n,MELLIEĦA,"330,000"
+Wednesday,February,24,2016,n,n,n,n,n,MELLIEĦA,"155,000"
+Wednesday,February,24,2016,y,n,y,n,n,MĠARR,"149,500"
+Wednesday,February,24,2016,y,n,n,n,n,MOSTA,"175,000"
+Wednesday,February,24,2016,n,n,y,n,n,MOSTA,"129,000"
+Wednesday,February,24,2016,y,n,n,n,n,MSIDA,"180,000"
+Wednesday,February,24,2016,n,n,y,n,n,MSIDA,"295,000"
+Wednesday,February,24,2016,n,n,y,n,n,MSIDA,"113,000"
+Wednesday,February,24,2016,n,n,n,n,y,NAXXAR,"1,100"
+Wednesday,February,24,2016,y,n,n,n,n,NAXXAR,NaN
+Wednesday,February,24,2016,n,n,n,n,n,NAXXAR,"585,000"
+Wednesday,February,24,2016,y,n,n,n,n,PORTOMASO,"420,000"
+Wednesday,February,24,2016,n,y,y,n,n,QAWRA,"158,000"
+Wednesday,February,24,2016,y,n,y,n,n,QAWRA,"158,000"
+Wednesday,February,24,2016,n,n,n,n,n,QORMI,"85,000"
+Wednesday,February,24,2016,n,n,n,n,n,QORMI,NaN
+Wednesday,February,24,2016,n,n,n,n,n,RABAT,"180,000"
+Wednesday,February,24,2016,n,n,n,n,n,RABAT,"147,000"
+Wednesday,February,24,2016,n,n,n,n,n,SAN ĠWANN,"126,000"
+Wednesday,February,24,2016,n,n,n,n,n,SIĠĠIEWI,"118,000"
+Wednesday,February,24,2016,n,n,n,n,n,SLIEMA ,NaN
+Wednesday,February,24,2016,y,n,n,n,n,SLIEMA,"245,000"
+Wednesday,February,24,2016,n,n,n,n,n,SLIEMA,"490,000"
+Wednesday,February,24,2016,n,y,n,n,n,SLIEMA,"299,000"
+Wednesday,February,24,2016,n,n,n,n,n,SLIEMA,NaN
+Wednesday,February,24,2016,n,n,y,n,n,SLIEMA,"1,650"
+Wednesday,February,24,2016,n,y,n,n,n,ST JULIANS,"350,000"
+Wednesday,February,24,2016,n,n,y,n,n,ST JULIANS,NaN
+Wednesday,February,24,2016,n,n,n,n,n,ST JULIANS,"470,000"
+Wednesday,February,24,2016,n,n,n,n,n,ST JULIANS,"375,000"
+Wednesday,February,24,2016,n,n,n,n,n,ST PAUL' S BAY,"380,000"
+Wednesday,February,24,2016,n,n,n,n,n,ST PAUL' S BAY,"139,500"
+Wednesday,February,24,2016,n,n,n,n,n,ST VENERA,"95,000"
+Wednesday,February,24,2016,n,n,n,n,n,ST VENERA,"110,000"
+Wednesday,February,24,2016,n,n,n,n,n,TAL-IBRAĠ,"10,000"
+Wednesday,February,24,2016,y,n,n,n,n,VALLETTA,"425,000"
+Wednesday,February,24,2016,n,n,n,n,n,VALLETTA,"680,000"
+Wednesday,February,24,2016,y,n,n,n,n,VALLETTA,"239,000"
+Wednesday,February,24,2016,n,n,n,n,n,VALLETTA,"300,000"
+Wednesday,February,24,2016,n,y,y,y,n,VICTORIA GARDENS,"435,000"
+Wednesday,February,24,2016,y,n,n,n,n,XEMXIJA,"235,000"
+Wednesday,February,24,2016,n,y,n,n,n,ŻEBBUĠ,"228,000"
+Tuesday,February,23,2016,n,n,y,n,n,BIRKIRKARA,"219,000"
+Tuesday,February,23,2016,n,n,n,n,n,BURMARRAD,"120,000"
+Tuesday,February,23,2016,y,n,n,n,n,FGURA,NaN
+Tuesday,February,23,2016,y,n,n,n,n,MARSASCALA,NaN
+Tuesday,February,23,2016,y,n,y,n,n,SLIEMA,"460,000"
+Monday,February,22,2016,n,n,n,n,n,GOZO,"370,000"
+Monday,February,22,2016,n,n,y,n,n,GOZO,"220,000"
+Monday,February,22,2016,n,n,n,n,n,MARSASCALA,"360,000"
+Monday,February,22,2016,n,n,n,n,n,QORMI,NaN
+Monday,February,22,2016,n,n,n,n,n,RABAT,"100,000"

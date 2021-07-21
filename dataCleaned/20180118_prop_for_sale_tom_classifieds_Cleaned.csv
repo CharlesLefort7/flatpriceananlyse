@@ -1,0 +1,15 @@
+Day_of_week,Month,Day_of_month,Year,Apartment,Maisonette,Garage,Pool,Garden,City,Price
+Wednesday,January,17,2018,n,n,n,n,y,GĦARGĦUR,NaN
+Wednesday,January,17,2018,n,n,y,n,n,GĦARGĦUR,"355,000"
+Wednesday,January,17,2018,y,n,y,n,y,GOZO,"225,000"
+Wednesday,January,17,2018,n,n,n,n,n,GŻIRA,NaN
+Wednesday,January,17,2018,y,n,n,n,n,SAN ĠWANN,"225,000"
+Wednesday,January,17,2018,y,n,n,n,n,SLIEMA,"1,650"
+Wednesday,January,17,2018,y,n,y,n,n,SLIEMA,"899,000"
+Wednesday,January,17,2018,y,n,n,n,n,SLIEMA,"300,000"
+Wednesday,January,17,2018,n,y,y,n,n,SWIEQI,"490,000"
+Wednesday,January,17,2018,y,n,n,n,n, POINT,"660,000"
+Monday,January,15,2018,y,n,n,n,n,SLIEMA,"300,000"
+Saturday,January,13,2018,n,n,y,n,n,GĦARGĦUR,"355,000"
+Saturday,January,13,2018,n,n,n,n,n,SLIEMA,"198,000"
+Saturday,January,13,2018,y,n,n,n,n,SLIEMA,"300,000"
